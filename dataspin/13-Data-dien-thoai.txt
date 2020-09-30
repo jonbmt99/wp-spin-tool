@@ -1,0 +1,391 @@
+﻿{năm kia|năm ngoái|năm trước|thời gian trước}
+{chuyên gia|Chuyên Viên}
+{Pin|Pin Sạc|Sạc|Sạc Pin}
+{Cho tới|Tính đến}
+{đơn vi phân phối|đơn vị sản xuất|hãng sản xuất|nhà phân phối|nhà sản xuất}
+{King Com|KingCom|King-Com}
+{bao giờ|khi nào|lúc nào}
+{bộ xử lý|Chip xử lý|CPU}
+{vốn dĩ là|vốn là}
+{mới nhất|tiên tiến nhất}
+{cảm giác|cảm hứng|cảm xúc|xúc cảm}
+{dễ chịu|thoải mái}
+{làm việc|thao tác}
+{ưu ái|ưu tiên}
+{ưu phiền|ưu tư}
+{chưa đầy|gần đầy}
+{chi tiết đồ họa|họa tiết}
+{đa chức năng|đa năng}
+{khít sát|liền lạc|liền mạch}
+{cấu hình|thông số kỹ thuật}
+{Bộ nhớ đệm|RAM}
+{Bộ nhớ trong|CMOS}
+{phổ cập|thông dụng}
+{cài đặt|seting}
+{HĐH|hệ điều hành|phần mềm hệ thống}
+{giới thiệu|ra mắt|trình làng}
+{cách đây không lâu|gần đây|vừa mới đây}
+{hình ảnh bên ngoài|ngoại hình}
+{năng lượng|tích điện}
+{chiếc điện thoại|chiếc Smartphone|dế yêu}
+{khá dày|tương đối dày}
+{chạy dọc theo|xuôi theo}
+{sườn máy|thân máy}
+{đầu trên của máy|đỉnh máy}
+{bây giờ|hôm nay|lúc này|từ bây giờ}
+{hãng|hãng sản xuất|thương hiệu}
+{khét tiếng|nổi tiếng}
+{&|and|và}
+{giao động|xấp xỉ}
+{dòng sản phẩm|sản phẩm}
+{Bạn|quý khách|Quý Khách|quý khách hàng|Quý khách hàng}
+{giao hàng|Giao hàng|phục vụ|ship hàng|Ship hàng}
+{áp dụng chính sách ưu đãi giảm giá|giảm giá|giảm ngay|Giảm ngay|tiết kiệm chi phí với chính sách giảm giá|ưu đãi giảm giá}
+{tại nhà|tận nhà|tận nơi}
+{bao test đổi mới|Bao test đổi trả|Bao test dùng thử|đổi trả|dùng thử đổi mới}
+{giá|giá trị}
+{đồng loạt|hàng loạt}
+{Samsung 10400mAh|Samsung SS10 10400mAh}
+{gọn gàng|Gọn gàng|nhỏ gọn}
+{bảo đảm|đảm bảo}
+{Sense 4|Sense4}
+{Sense 6|Sense6}
+{call|Call|điện thoại tư vấn|Điện thoại tư vấn|gọi|Gọi|hotline|Hotline}
+{chỉ cần|Chỉ Cần|chỉ việc|Chỉ việc}
+{Nói luôn nhé|Nói nhanh nhé|Vào vấn đề luôn}
+{cấp tốc|Cấp Tốc|nhanh|Nhanh}
+{bộ quà tặng kèm theo|khuyến mãi|khuyến mãi|khuyến mãi ngay|tặng|Tặng|tặng kèm|Tặng Kèm|tặng ngay|Tặng Ngay}
+{cáp sạc|Cáp Sạc|dây cáp|Dây cáp|dây cáp sạc|Dây sạc|dây sạc cáp|Dây sạc cáp|sạc cáp|Sạc cáp}
+{Đống Đa|Q. Đống Đa|Quận Đống Đa}
+{Hà Nội|HN|Thành Phố Hà Nội|TP Hà Nội}
+{khoanh vùng|khu vực|Khu Vực|Quanh Vùng}
+{phần trăm|Phần Trăm|tỷ lệ|Tỷ Lệ|xác suất|Xác Suất}
+{Đăng Ký Trực Tuyến|Đặt Đơn Hàng|Đặt Hàng Ngay|Đặt Hàng Online|Giỏ hàng trực tuyến}
+{3 cổng sạc cho iPhone 4/4S/5/5S và các dòng máy Samsung, Backberry, Sony Z, HTC...|3 đầu}
+{có nghĩa là|Có nghĩa là|tức là|Tức là}
+{kết luận|Kết luận|tóm lại|Tóm lại}
+{ADD|Đến mua trực tiếp|Địa Chỉ|Địa chỉ cửa hàng|Showroom}
+{khủng|xịn}
+{cục|viên}
+{Lý Do|Nguyên Nhân|Tại Sao|Vì Sao}
+{nhu cầu|ý định}
+{mua|mua sắm}
+{cân nhắc|Để ý đến|lưu ý đến|quan tâm đến|suy nghĩ|suy xét|xem xét}
+{phong trào|trào lưu}
+{phổ biến|phổ cập}
+{đánh giá|Đánh Giá|review|Review|reviews|Reviews}
+{hiện nay|lúc này}
+{đặc điểm|Đặc điểm|điểm lưu ý|Điểm lưu ý|điểm sáng|Điểm sáng}
+{nổi bật|nổi trội}
+{dòng|dòng sản phẩm|loại}
+{được ưa chuộng|rất được quan tâm|rất được ưa chuộng|rất được yêu thích}
+{toàn cầu|toàn thế giới|toàn thị trường quốc tế}
+{phong cách Designer|thiết kế}
+{tiện dụng|tiện lợi}
+{di chuyển|dịch chuyển}
+{MI|XiaoMI|XiaoMi MI}
+{1|một}
+{đầu ra|Output|Output đầu ra}
+{5V - 1A|5V : 1A|5V/1A|5V-1A}
+{&|và}
+{5V - 2,1A|5V - 2.1A|5V : 2,1A|5V : 2.1A|5V/2,1A|5V/2.1A|5V-2,1A|5V-2.1A}
+{5V - 2A|5V : 2A|5V/2A|5V-2A}
+{điện thoại cảm ứng|điện thoại cảm ứng thông minh|điện thoại di động|điện thoại thông minh|Smart Phone|Smartphone}
+{Laptop|Máy tính xách tay}
+{máy tính bảng|Tablet}
+{điện áp nguồn|nguồn điện|nguồn điện áp|nguồn tích điện}
+{không chỉ thế|không dừng lại ở đó|Không những thế|Ngoài ra}
+{dự phòng|dự trữ}
+{chắc chắn|cứng cáp|nặng tay}
+{chịu|Chịu|chịu đựng|Chịu đựng}
+{trọng lực|trọng tải}
+{đầu vào|input|input đầu vào}
+{nguồn|Power|Power nguồn}
+{đèn Led tín hiệu|đèn tín hiệu}
+{kế tiếp|Kế tiếp|sau đó|Sau đó|tiếp đến|Tiếp đến|tiếp nối|Tiếp nối}
+{nạp điện|nạp điện từ nguồn bên ngoài vào|sạc điện cho pin}
+{buton|nút}
+{phần bên|Phần bên|phần hông|Phần hông|phần viền|Phần Viền}
+{cuối cùng|ở đầu cuối}
+{bật tắt|bật và tắt|tắt bật}
+{bóc hộp|khui vỏ hộp|mở hộp}
+{quyển HDSD hướng dẫn sử dụng|quyển hướng dẫn sử dụng|Quyển sổ hướng dẫn sử dụng|quyển sổ nhỏ hướng dẫn sử dụng}
+{bên|phía}
+{hộp|vỏ hộp}
+{fullbox|nguyên hộp}
+{Vào đầu năm|Vào thời điểm đầu năm}
+{10.400 mAh|10.400mAh|10400 mAh|10400mAh}
+{20.000 mAh|20.000mAh|20000 mAh|20000mAh}
+{10.000 mAh|10.000mAh|10000 mAh|10000mAh}
+{6.000 mAh|6.000mAh|6000 mAh|6000mAh}
+{15.000 mAh|15.000mAh|15000 mAh|15000mAh}
+{18.000 mAh|18.000mAh|18000 mAh|18000mAh}
+{13.000 mAh|13.000mAh|13000 mAh|13000mAh}
+{5.000 mAh|5.000mAh|5000 mAh|5000mAh}
+{16.000 mAh|16.000mAh|16000 mAh|16000mAh}
+{Xiaomi|Xiaomi MI}
+{có phát ngôn|công bố|tuyên bố}
+{đè bẹp|tiêu diệt}
+{tới bây giờ|tới lúc này|tới nay}
+{kích cỡ|kích thước}
+{dãy|hàng}
+{dễ|dễ dàng}
+{nhận biết|nhìn thấy}
+{chiến trường|mặt trận}
+{Ở|Tại}
+{đào bới|hướng đến|tìm hiểu}
+{đơn giản hơn nhiều|không cầu kỳ|rất đơn giản}
+{bình thường|đơn giản}
+{Adata 10000mAh|Adata PT100|Adata PT100 10000mAh}
+{ipad|iPad|ipad tablet|iPad tablet|máy tính bảng ipad|máy tính bảng iPad|Máy tính bảng iPad}
+{LCD monitor|màn hình LCD}
+{điện thoại|smartphone}
+{chính hãng|rea1}
+{mã sản phẩm|Mã Sản Phẩm|model|Model}
+{Color|màu sắc|Màu sắc}
+{black|Black|đen|Đen}
+{trắng|Trắng|white|White}
+{blue|xanh}
+{áp ra output|Áp sạc ra|cổng đầu ra|cổng output|đầu ra|đầu ra output}
+{Apple iPhone|điện thoại Apple iPhone|điện thoại iPhone|iPhone}
+{cân nặng|khối lượng|trọng lượng}
+{khoảng|tầm}
+{China|Đài Loan Trung Quốc|Trung Quốc}
+{bảo hành|Bảo hành|Bảo Hành|bh|BH}
+{khi|Khi|lúc|Lúc}
+{bạn cần phải|bạn phải}
+{bài viết liên quan|đọc thêm|tham khảo thêm|tìm hiểu thêm|xem thêm}
+{ra đời|Ra đời|thành lập|Thành lập|thành lập và hoạt động|Thành lập và hoạt động}
+{kim chỉ nam|mục tiêu|phương châm}
+{đạo đức|đạo đức nghề nghiệp}
+{Hãng Pisen|Pisen|Pisen Power}
+{gặt hái|lượm lặt}
+{chiến tích|thành công}
+{linh phụ kiện|linh phụ kiện điện thoại|phụ kiện|phụ kiện điện thoại}
+{headphone|tai nghe}
+{check|kiểm tra}
+{lòng tin|tín nhiệm|tin tưởng}
+{công ty bán lẻ|cửa hàng bán lẻ|nhà bán lẻ|shop bán lẻ}
+{mặc dù|Mặc dù|tuy|Tuy}
+{thị phần|Thị phần|Thị Phần|thị trường|Thị trường|Thị Trường}
+{hơi trễ|khá chậm|khá trễ|muộn hơn}
+{tâm lý|tư tưởng}
+{cửa hàng|shop}
+{trên dưới|xấp xỉ}
+{bấm vào|nhấn vào}
+{đầu tiên|thứ nhất}
+{kỳ thị|tẩy chay}
+{khách hàng|người tiêu dùng|quý khách hàng}
+{chú trọng|ưu tiên}
+{máy tính bảng|tablet}
+{laptop|máy tính xách tay}
+{điện thoại|điện thoại cảm ứng|điện thoại thông minh|smartphone}
+{nhận biết|phân biệt}
+{Fake|Nhái}
+{nhộn nhịp|sôi động|sống động}
+{nhu cầu|nhu yếu}
+{liên tục|thường xuyên}
+{lĩnh vực|nghành}
+{cao cấp|công nghệ cao}
+{hấp dẫn|mê hoặc|thú vị}
+{chính vì như thế|chính vì như vậy|chính vì thế|chính vì vậy|vì thế|vì vậy}
+{các|những}
+{đc|được}
+{cảm tình|tình cảm}
+{người sử dụng|người tiêu dùng}
+{tràn lan|tràn ngập}
+{trang web|website}
+{nhìn|trông}
+{giả mạo|hàng fake|hàng nhái}
+{cập nhật|update}
+{hiện tại|lúc này|thời điểm hiện tại}
+{cải thiện|nâng cao|nâng cấp}
+{an tâm|yên tâm}
+{bao bì|vỏ hộp}
+{tựa như|tương tự}
+{vừa khít|vừa vặn}
+{đèn LED|đèn tín hiệu}
+{hàng|mặt hàng|sản phẩm}
+{chập cháy|cháy nổ}
+{không an toàn|nguy hiểm}
+{Pisen LCD|Pisen LCD Power|Pisen LCD Power Station}
+{chất lượng không đảm bảo|chất lượng thấp|kém chất lượng}
+{chất lượng cao|rất chất lượng|rất tốt}
+{ảnh hưởng|tác động}
+{thông thái|uyên bác|uyên thâm}
+{nước ta|việt nam|VN}
+{dung lượng|dung tích}
+{khác nhau|không giống nhau}
+{đa dạng|phong phú}
+{cẩn thận|cẩn trọng|cảnh giác}
+{người dùng|người tiêu dùng}
+{đặc biệt là|nhất là}
+{thông thường|thường thì}
+{hàng giả|hàng nhái}
+{chứng thực|xác nhận|xác thực}
+{Apple iPhone|điện thoại Apple iPhone|điện thoại iPhone|iPhone}
+{tình huống|trường hợp}
+{ánh sáng mờ|ánh sáng vừa đủ|vừa đủ sáng}
+{hàng chính hãng|hàng thật|sản phẩm chính hãng}
+{bé hơn|nhỏ hơn}
+{lớn hơn|to hơn}
+{dưới đáy|dưới mặt đáy|mặt đáy|mặt dưới}
+{thông số|thông số kỹ thuật}
+{sắc sảo|tinh tế}
+{nội thất|thiết kế bên trong}
+{ngoại thất|thiết kế bên ngoài}
+{nhà cung cấp|nhà sản xuất}
+{mạch điện tử|mainboard}
+{làm loạn|làm mưa làm gió|nổi loạn}
+{tiêu chí|tiêu chuẩn}
+{sự thật|thực sự}
+{bán hàng|bán sản phẩm}
+{giá bèo|giá rẻ|giá thấp|giá tốt}
+{khoảng cách|khoảng cách}
+{bật nguồn|khởi động}
+{bất chấp|bỏ mặc|mặc kệ}
+{2 anh em song sinh|bộ đôi|cặp đôi|cặp đôi song sinh}
+{bất ngờ|đột ngột}
+{bán chạy|hút khách}
+{di động xách tay|điện thoại xách tay}
+{buôn bán|kinh doanh}
+{sức mua|sức tiêu thụ}
+{tăng đều|tăng lên}
+{ế ẩm|ế ẩm tồn kho|ế hàng|ế hàng tồn kho}
+{thực trạng|tình trạng}
+{khác hẳn|khác hoàn toàn}
+{Theo anh|Theo ông}
+{Theo bà|Theo chị}
+{hệ thống bán lẻ|hệ thống cửa hàng bán lẻ}
+{Thành Phố Hồ Chí Minh|TP HCM|TP.HCM|TP.Hồ Chí Minh}
+{người mua|người tiêu dùng}
+{đã qua sử dụng|Like New 99%}
+{Ảnh|Hình ảnh}
+{thực tế|thực tiễn}
+{màn hình|monitor}
+{Chip|CPU}
+{tính năng được cải thiện|tính năng lạ|tính năng mới|tính năng vượt trội}
+{chào làng|công bố|ra mắt}
+{chọn cái tên|được đặt tên|được lấy tên}
+{không đồng ý|khước từ|từ chối}
+{trả lời|vấn đáp}
+{luận điểm|vấn đề}
+{đa phương tiện|Multimedia}
+{cấu hình thiết lập|thiết lập|thiết lập cấu hình|tùy chỉnh|tùy chỉnh cấu hình|tùy chỉnh thiết lập}
+{điểm khác biệt|điểm nhấn|điểm nổi bật}
+{đáng chú ý nhất|lớn nhất}
+{bật tắt|tắt mở}
+{hiển thị thông báo|hiện thông báo}
+{con số không|không tên tuổi|vô danh}
+{Dùng thử|Trải Nghiệm}
+{Điện thoại Oppo|OPPO|Smarphone OPPO}
+{ra mắt|trình làng|tung ra}
+{phiên bản|thế hệ}
+{kế nhiệm|tiếp sau}
+{cải tiến|nâng cấp}
+{bắt đầu|chính thức}
+{tập kết|tập trung}
+{nhân tố|yếu tố}
+{không quá|không thật|không thực sự}
+{độ phân giải|phân bố điểm ảnh}
+{cân xứng|phù hợp|tương xứng}
+{như thế|như vậy}
+{đem lại|mang lại}
+{thực chất|thực ra|thực tế}
+{lưng của máy|lưng máy|mặt lưng máy|phần lưng của máy}
+{là điểm|là vấn đề}
+{chọn lựa|lựa chọn}
+{đổi thay|thay đổi}
+{bề mặt|mặt phẳng}
+{đa số chúng ta|nhiều bạn|nhiều người}
+{Điện thoại HTC|HTC|Smartphone HTC}
+{Đi Phượt|Du Lịch}
+{cơ hội|thời cơ}
+{Dân Công Nghệ|Giới Công Nghệ}
+{chờ đợi|chờ đón|mong chờ}
+{dịp|đợt|lần}
+{mở bán|tung hàng}
+{cảm biến|cảm ứng}
+{khung nhôm|khung vỏ nhôm|vỏ khung bằng nhôm}
+{đáp ứng|đáp ứng nhu cầu|thỏa mãn nhu cầu}
+{khả năng|năng lực}
+{hoàn chỉnh|hoàn hảo}
+{độ nét|độ sắc nét}
+{cao hơn|tốt hơn}
+{ánh sáng tối|thiếu sáng}
+{độc đáo|khác biệt}
+{bất kỳ|ngẫu nhiên}
+{cảnh trước|tiền cảnh}
+{tương đồng|tương đương}
+{bổ trợ|hỗ trợ}
+{đối tác phân phối|nhà phân phối}
+{bán ra|đẩy ra|xuất kho}
+{triệu đ|triệu đồng|triệu VND}
+{ngàn đ|ngàn đồng|ngàn VNĐ|nghìn đồng}
+{Mổ Bụng|Mổ Ruột|Phẫu thuật}
+{dân dụng|gia dụng}
+{sau đây|tại đây}
+{Bóc Tem|Đập Hộp|Khui Vỏ hộp}
+{như thế nào|ra sao|thế nào}
+{thế hệ|thời kỳ}
+{nhìn rất rõ|nhìn rõ|trông rất rõ ràng}
+{Bẻ khóa|Mở Khóa|Unlock}
+{định hướng|kim chỉ nan|lý thuyết|triết lý}
+{bứt phá|cải tiến vượt bậc|đột phá|nâng tầm}
+{+ Plus|Plus}
+{cho ra đời|phát hành}
+{kể từ|Tính từ lúc}
+{C.ty|công ty}
+{Trong đó|Trong số đó}
+{Có thể|Rất có thể}
+{hoài nghi|không tin}
+{cực thấp|quá thấp|rất thấp}
+{mặt bằng chung|thực trạng chung|tình hình chung}
+{tiếp diễn|tiếp nối|tiếp tục}
+{được bảo vệ|duy trì}
+{mật độ|tỷ lệ}
+{đối thủ|đối thủ cạnh tranh|phe đối lập}
+{đạt hiệu suất|đạt ngưỡng}
+{Năm 2015|Năm nay}
+{chịu ảnh hưởng|chịu ràng buộc|lệ thuộc|phụ thuộc}
+{mặc dù|tuy nhiên|tuy vậy}
+{bộ phận|phần tử|thành phần}
+{thế giới|toàn cầu}
+{bóc|bóc tách|tách|tách bóc}
+{máy móc|máy móc thiết bị|thiết bị|thiết bị máy móc|trang thiết bị máy móc}
+{không hề nhỏ|rất lớn}
+{hàng tỷ đồng|nhiều tỷ đồng}
+{không ít|rất nhiều|vô số}
+{bán lẻ|kinh doanh nhỏ|nhỏ lẻ}
+{bằng tay|thủ công}
+{không tân tiến|lạc hậu|xưa cũ}
+{sửa chữa|sửa chữa thay thế|thay thế|thay thế sửa chữa}
+{nhòe màn|ố màn}
+{hỏng|hư|lỗi}
+{kỹ năng tay nghề|tay nghề|trình độ chuyên môn}
+{kém|không cao|không đảm bảo|không tốt}
+{mở máy|tháo lắp máy|tháo máy}
+{gắn bó|kinh nghiệm}
+{cầm tay|di động|di động cầm tay}
+{hiện đại|tân tiến|tiên tiến}
+{linh kiện|linh phụ kiện}
+{chuyên viên|nhân viên}
+{lành nghề|tay nghề cao}
+{âu yếm|chăm lo|chăm sóc|quan tâm}
+{support|tư vấn}
+{Contact|Liên hệ}
+{Free|miễn phí}
+{câu hỏi|thắc mắc}
+{Bảo hành|BH}
+{kiếm tìm|tìm kiếm}
+{kiếm tìm|tìm kiếm}
+{Anh chị|Anh chị em|Cả nhà|Các bạn}
+{nâng cao|phát triển}
+{hiệu năng|tính năng}
+{rào ngăn cản|rào cản}
+{mới đây|gần đây}
+{mang ra|đưa ra}
+{biện pháp|giải pháp}
+{đang có|đang sở hữu|đã có}
+{Hầu như|Đa số}
+{gần đây|mới đây}

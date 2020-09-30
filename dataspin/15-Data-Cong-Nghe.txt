@@ -1,0 +1,207 @@
+﻿{công ty internet|nhà mạng|nhà mạng di động|nhà mạng mobile}
+{địa điểm|vị trí}
+{thí nghiệm|thử nghiệm|thực nghiệm}
+{đang chạy|thực hiện|triển khai|vận hành}
+{buổi lễ|sự kiện}
+{Đôi khi|Thông thường|thường thì}
+{băng thông|đường dẫn|đường truyền}
+{tốc độ|vận tốc}
+{quan trọng|rất cần thiết|trọng yếu}
+{chủ tịch|giám đốc|người có quyền lực cao|người đứng đầu}
+{chịu trách nhiệm|có trách nhiệm|nhận trách nhiệm}
+{kiếm tìm|search|tìm kiếm}
+{khác biệt|khác lạ|không giống nhau}
+{đánh giá|giới thiệu|giới thiệu thông tin|mô tả|mô tả thông tin}
+{cảm hứng|sáng kiến mới|sáng tạo|ý tưởng}
+{người sử dụng công nghệ|người thích công nghệ|người yêu công nghệ|tín đồ công nghệ}
+{chú ý đến|nhắm}
+{đối tượng|mục tiêu}
+{di động|điện thoại|mobile|Mobile|sản phẩm điện thoại|Smartphone|thiết bị di động}
+{có tương lai|hứa hẹn|tiềm ẩn}
+{chất lượng cao|chất lượng tốt|đảm bảo chất lượng}
+{giống như|tương đương|tương tự}
+{bản mẫu|phiên bản|version}
+{đối chiếu|phân tích|so sánh|so với}
+{độ lớn|khuôn khổ|kích cỡ|kích thước|sự cân đối}
+{hiển nhiên|minh bạch|phân biệt|phân minh|rõ ràng}
+{khuyết điểm|nhược điểm|phần còn kém|tật xấu|tình trạng kém}
+{không cao|không lớn|không vừa ý|quá thấp}
+{cầu kỳ|khó hiểu|phức tạp}
+{không mất phí|không mất tiền|miễn phí}
+{chung cuộc|kết cuộc|kết quả|thành quả}
+{chớp nhoáng|lập tức|mau chóng|mau lẹ|nhanh chóng}
+{toàn bô|tổng cộng|tổng số|tổng thể}
+{địch thủ|đối thủ|người cạnh tranh}
+{phần mềm|ứng dụng}
+{đáng buồn|đáng thương|đáng tiếc|tội nghiệp}
+{chí lý|có suy xét|đúng đắn|khôn ngoan|sáng suốt|thận trọng}
+{lý do|nguyên do|nguyên nhân}
+{chống chọi với|đối diện|đối mặt}
+{vụ khở tố|vụ kiện|vụ lên án}
+{chỉ huy|đè nén|điều khiển|kiểm soát|kiểm tra}
+{ngôn ngữ|tiếng nói|tiếng nói của một dân tộc}
+{hiểu|hiểu biết|hiểu ngầm|hiểu rõ}
+{bản chất|bản tính|đặc tính|tạo hóa|tính chất|tự nhiên tính}
+{bản quyền|được quyền tác giả cho phép|mã nguồn mở}
+{bắt đầu làm|dấn mình vào|dự vào|gia nhập|kéo|tham gia}
+{lớn lên|phát triển|tiến hóa|trở lên lớn mạnh}
+{ai đó ngẫu nhiên|bất cứ ai|bất kỳ ai|một người bất kỳ}
+{đạo giáo|giáo lý|học thuyết|lý thuyết}
+{lệ thuộc|phụ thuộc|thuộc về}
+{công việc|làm việc|việc làm}
+{hồi|thì giờ|thời đại|thời gian|thời kỳ}
+{lộn xộn|phiền phức|rắc rối|tính phức tạp|vướng víu}
+{theo dấu|theo dõi}
+{hy vọng|kỳ vọng|trông mong}
+{bán chạy|bán đắt hàng|bán được nhiều}
+{Nhìn chung|tóm lại}
+{chi tiết sắc nét|rõ nét|sắc nét}
+{điện thoại sịn|siêu hot|siêu phẩm|tuyệt phẩm}
+{chức năng đặc biệt|đặc điểm nội bật|Điểm nhấn|tính năng nổi trội}
+{cảm giác|cảm thấy|nhận ra|nhận thức}
+{nhận ra|nhìn thấy|quan sát|xem sét}
+{cuộc sống|thế giới|thị trường|toàn cầu|trái đất}
+{sự lo ra|sự ra đời|sự ra mắt|sự xuất hiện}
+{điệu độc đáo|điều thích thú|điều thú vị|sự mới mẻ}
+{chính thức|chuẩn xác}
+{công bố|thông báo|tuyên bố}
+{sau này|thời gian sắp tới|thời gian sau|Tương lai}
+{chọn lọc|độc quyền|sản phẩm hiếm}
+{cá tính|chất riêng}
+{cho biết|làm mọi người biết|quảng cáo|thông báo}
+{câu chất vấn|Câu hỏi|câu hỏi cần giải đáp}
+{ấn tượng|đáng chú ý|đang quan tâm|khá ấn tượng|khá nổi bật}
+{buôn bán công nghệ|buôn bán điện tử|thương mại công nghệ|thương mại điện tử}
+{đầy niệm tin|lạc quan|tự tin}
+{sự cộng tác|sự hợp chung|sự hợp tác}
+{cái nhìn|tầm nhìn}
+{công lao|công trạng|giá trị|sự xứng đáng}
+{sự thuận tiện|sự tiện lợi}
+{bên tôi|chúng tôi|tôi}
+{đáp ứng|đạt được ý muốn|hoàn thành}
+{sự chông chờ|sự chông mong|sự mong đợi}
+{nơi tập trung|trung tâm|trung ương}
+{chất lượng hơn|đảm bảo hơn|hiệu quả hơn|rât tốt|tốt hơn}
+{kinh nghiệm|những hiểu biết|thử dùng|thử khám phá|trải nghiệm|từng trải}
+{hỗ trợ|tư vấn}
+{mở rộng|phát triển thêm|tăng diện tích|tăng thêm}
+{đầu tư|thêm tiền để phát triển|thêm vốn}
+{đổi chác|Giao dịch|giao hoán|trao đổi}
+{bám trụ|giữ được vị trí|giữ vững}
+{thu lãi|thu tiền lãi|thu tiền lời}
+{cầm đầu|dẫn đầu|đi đầu|đứng đầu|mở đầu|mở màn|Tiên phong}
+{bằng lòng|bằng lòng|chấp nhận|chấp thuận|chính thức|đồng ý|phê chuẩn|thỏa thuận|thừa nhận|ưng thuận|xác định|xác nhận}
+{chi phí rẻ|chi phí thấp|giá rẻ|giá thành rẻ}
+{giữ cho mình|giữ trong tay|nắm cho mình|nắm trong tay}
+{hệ điều hành|nền tảng sử dụng}
+{gã khổng lồ|gã to lớn|tên to con}
+{bá chủ|cai quản|cại trị|thống trị}
+{chưa bao giờ|chưa một lần|chưa từng}
+{gần đây|mới đây|vừa qua|vừa rồi}
+{điều tra|khảo sát|thăm dò}
+{chuyển động|di chuyển|đi lại|vận động}
+{bỏ quên|chẳng chú ý|không để ý|quên mất|xem nhẹ}
+{Dù thế|Dù vậy|Tuy nhưng|Tuy thế|Tuy vậy}
+{bự chảng|cồng kềnh|kềnh càng|to kềnh}
+{hơi|khá|tương đối}
+{cái|chiếc|dòng|loại|mẫu}
+{lợi ích|thuận tiện|tiện dụng|tiện lợi}
+{phát triển thành|trở nên|trở thành|vươn lên là}
+{đề cập|kể|nhắc|nói}
+{phải chăng|rẻ|thấp|tốt}
+{chính hãng|hàng hiệu|xịn}
+{diện tích|dung tích|khoảng trống|không gian|thể tích}
+{bố trí|sắp xếp|xếp đặt}
+{cẩn thận|chu đáo|kỹ càng|kỹ lưỡng}
+{cực kỳ|rất|siêu|vô cùng}
+{1|một}
+{các|những}
+{khiến|khiến cho|làm|làm cho}
+{chẳng hề|chẳng phải|không hề|không phải|ko phải}
+{có|mang|sở hữu|với}
+{tha hồ|thoả thích|thoải mái|vô tư}
+{giả dụ|nếu|trường hợp|ví như}
+{bắt mắt|cá tính|phong cách|thời trang}
+{cận vệ|người bạn đồng hành|người bạn đường|trợ thủ}
+{fake|giả|kém chất lượng|nhái}
+{cửa hàng|địa chỉ|liên hệ|shop}
+{bậc nhất|hàng đầu}
+{khi không|ngẫu nhiên|trùng hợp|tự dưng|tự nhiên}
+{đem đến|đem lại|mang đến|mang lại}
+{chi tiết|khía cạnh|yếu tố}
+{không|ko}
+{khi|lúc}
+{hình dung|mường tượng|nghĩ đến|tưởng tượng}
+{cất|chứa|đựng}
+{hết lòng|nhiệt tình|tận tình}
+{nhộn nhịp|rầm rộ|sôi động}
+{chất liệu vải|loại vải}
+{chống nước|chống thấm|chống thấm nước|không thấm nước}
+{kém cạnh|thua kém|thua sút}
+{căn nguyên|khởi thủy|nguồn gốc|xuất phát|xuất xứ}
+{ấy|đấy|đó}
+{âm thầm|lặng lẽ|lặng thầm}
+{PR|quảng bá|quảng cáo}
+{cố gắng|nỗ lực|phấn đấu|tìm mọi cách}
+{đến|tới}
+{nổi danh|nổi tiếng|nức danh|nức tiếng}
+{bạn teen|bạn trẻ|giới trẻ|thanh niên|tuổi teen}
+{hoa tuoi|hoa tươi}
+{bật mí|mách nhỏ|tiết lộ}
+{gần|sắp}
+{giảm thiểu|hạn chế|tránh}
+{liền|ngay lập tức|ngay tắp lự}
+{in thẻ|in thẻ nhựa|thẻ nhựa}
+{dừng|giới hạn|ngừng}
+{công nghệ|khoa học|kỹ thuật}
+{cộng|cùng}
+{buôn bán|kinh doanh|marketing}
+{khuyến mãi|ưu đãi}
+{đơn giản|đơn thuần}
+{nâng cao|tăng}
+{chuyên nghiệp|giỏi|nhiều năm kinh nghiệm}
+{hiện đại|tiên tiến}
+{kèm theo|tất nhiên}
+{chủ thầu dự án.|chủ thi công|nhà thầu xây dựng}
+{bước đột phá|bước ngoặt}
+{hệ thống tự động|máy móc tự động}
+{cắt giảm chi phí nhân công|giải phóng sức lao động|giảm thiểu tối đa nhân lực}
+{chi phí về nhân công|gánh nặng về nhân công}
+{lãng phí|tiêu hao}
+{bằng máy|sử dụng máy}
+{in cũ|in trước kia|in truyền thống}
+{bề ngoài|dáng vẻ|kiểu dáng|mẫu mã|mẫu thiết kế|ngoại hình|thiết kế}
+{hướng phát triển|phong trào|trào lưu|xu hướng|xu thế}
+{đầu tiên|lần đầu|lần đầu tiên|lần thứ nhất|thứ 1|thứ nhất|trước tiên}
+{chi phí|giá bán|giá thành|giá tiền|kinh phí|mức chi phí|mức giá|tầm giá}
+{nhãn hàng|nhãn hiệu|nhãn hiệu của người chế tạo|thương hiệu}
+{công đoạn|giai đoạn|quá trình|quy trình|thủ tục}
+{cần phải có|cần thiết|đòi hỏi|lời yêu cầu|nhu cầu|nhu cầu cần thiết|nhu yếu|sự cần dùng|sự đòi hỏi|thiết yếu}
+{đồ vật|lắp thêm|máy|sản phẩm|sản phẩm công nghệ|thiết bị|thứ|trang bị|vật dụng}
+{bởi thế|bởi vậy|Bởi vậy|do đó|do vậy|Như vậy|Vậy nên|vì thế|vì vậy}
+{chủ yếu|đa phần|đa số|đại khái|đầy đủ|đông đảo|được quan tâm|gần như|hầu hết|hoàn toàn|mọi|phần lớn|rất nhiều|số đông|tất cả|toàn bộ|toàn thể}
+{chức vụ|chuyên dụng cho|công tác|dịch vụ|dùng cho|phục vụ}
+{cạnh tranh|cực nhọc|khó|khó khăn|nặng nề}
+{khổng lồ|lớn|to|to lớn}
+{hài hòa|hợp lại thành một|kết hợp|phối hợp|tích hợp}
+{cấp dưỡng|chế tạo|cung cấp|cung ứng|phân phối|sản xuất|thêm vào|tiếp tế}
+{có mặt|có mặt trên thị trường|phát triển ra|ra đời|ra mắt|tạo nên|tạo ra|thành lập|xây dựng thương hiệu|xuất hiện}
+{bây giờ|hiện nay|hiện tại|ngay bây giờ|ngay lúc này|ngày nay|ngay thời điểm hiện tại|thời điểm này|thời gian này|trên sự thật|Trên thực tế}
+{chắc|chắc chắn|chắc hẳn|Chắn chắn|có thể|cứng cáp|dĩ nhiên|kiên cố|vững chắc}
+{đoán trước|dự báo|dự đoán}
+{lớn lên|lớn mạnh|phát triển|tăng trưởng|vững mạnh}
+{đa dạng|lan rộng|nhiều|nhiều kiểu|nhiều loại|nhiều lựa chọn|phần đông|phổ biến|phổ thông|phong phú|rộng rãi}
+{các bạn|khách hàng|người dùng|người mua|người sử dụng|người tiêu dùng|người trải nghiệm|quý khách}
+{công ty|doanh nghiệp|liên doanh|nhà hàng|siêu thị}
+{chú ý|Đánh mạnh|để ý|dồn vào|lưu ý|nhấn mạnh|quan tâm|sử dụng rộng rãi|tập trung|ưa chuộng}
+{đặc điểm nổi trội|điểm cộng|điểm mạnh|lợi hơn|lợi thế|nổi trội hơn|thế mạnh|tính năng nổi bật|ưu điểm|ưu thế}
+{mặc khi|Ngay cả|ngay khi}
+{cuốn hút|hấp dẫn|lôi kéo|thu hút}
+{bắt buộc|buộc phải|cần|đề nghị|nên|phải|yêu cầu}
+{đam mê|ham mê|mê say|mê thích|phù hợp|say đắm|say mê|thích|thích hợp|ưa thích|ưng ý|yêu thích}
+{chọn|mua|sắm|tậu|tìm}
+{bên cạnh|kế bên|không tính|ko kể|ngoài|ngoại trừ|quanh đó|xung quanh}
+{hoàn hảo|hợp lý|logic|lý tưởng|thông minh|tối ưu|tuyệt vời|xuất sắc}
+{dùng|sử dụng|tiêu dùng}
+{đặc biệt|đặc thù|đặc trưng|lạ lùng|nổi bật|riêng biệt|tính năng hot|vượt trội}
+{bí quyết|biện pháp|cách|giải pháp|phương pháp}

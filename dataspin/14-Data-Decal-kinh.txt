@@ -1,0 +1,1062 @@
+﻿{công dụng|ích lợi|lợi ích}
+{cấu tạo|kết cấu}
+{có dạng hình mắt lưới|có dạng lưới|có dạng mắt lưới}
+{nên được gọi|nên gọi|nên người ta gọi}
+{thuận lợi|thuận tiện|tiện lợi}
+{đặc biệt|đặc trưng}
+{nhanh chóng|nhanh gọn|nhanh gọn lẹ}
+{đẹp mắt|đẹp nhất}
+{cực kỳ|vô cùng}
+{bắt đầu|nguồn gốc|xuất phát}
+{phơi bày|trình diện|trưng bày}
+{cụ thể|rõ ràng|ví dụ}
+{ngày cuối cùng của năm|ngày cuối năm|ngày hết năm}
+{hối hả|quay quồng|tất bật}
+{mua sắm|sắm sửa}
+{dọn dẹp|dọn xếp|sắp xếp}
+{chào đón|chào mừng|mừng đón}
+{may mắn|như mong muốn|như ý|suôn sẻ}
+{cấm kị|không nên làm|kiêng kị}
+{chất liệu|vật  liệu}
+{không bay|không mờ|không phai}
+{bạc màu|bạc mầu|mất màu}
+{chống  thấm|chống hút}
+{chống rêu bám|chống rêu mốc|ngăn cản rêu mốc|ngăn cản việc rêu bám|ngăn chặn rêu bám}
+{kiến thiết|thiết kế|thiết kế kiến thiết}
+{là từng bộ phận|là từng mảng|là từng phần}
+{riêng biệt|riêng không liên quan gì đến nhau|riêng lẻ}
+{khăn ẩm|khăn ẩm ướt|khăn ướt}
+{khả năng|năng lực}
+{điểm đặt|nơi đặt|vị trí}
+{mặt tường nhẵn|mặt tường nhẵn phẳng|tường nhẵn|tường phẳng}
+{nguyên liệu|nguyên vật liệu|vật liệu}
+{gồ ghề|không nhẵn|không phẳng}
+{ẩm ướt|không khô ráo|không khô thoáng|lúc nào cũng ẩm ướt}
+{xuất đi|xuất khẩu}
+{chuẩn mức|tiêu chuẩn}
+{cần biết|cần phải biết|nên biết}
+{có gây|có gây nên|có gây ra|có tạo ra}
+{hoàn toàn|tuyệt đối}
+{đúng cách|đúng cách dán|đúng chuẩn}
+{ban đầu|bắt đầu|bước đầu}
+{máy sấy|máy sấy khô|máy sấy tóc}
+{bốc dần dần|bóc từ từ|từ từ bóc}
+{dần dần|từ từ}
+{kêu than|than phiền|than thở|than vãn|thở than}
+{đặc biệt là|nhất là}
+{cái nắng nóng|cái nóng|sự nắng nóng}
+{buổi trưa|giữa trưa}
+{không ai|không có ai|không có bất kì ai}
+{chịu được nổi|chịu nổi|chống chịu nổi}
+{đi ngoài đường|ngoài đường|ở ngoài đường}
+{bao bọc kín|bịt kín|che kín|trùm kín}
+{cả người|khắp cơ thể|toàn bộ cơ thể|từ đầu đến chân}
+{khi chạy xe máy|khi đi lại bằng xa máy|khi đi xe máy|khi vận chuyển bằng xe máy}
+{thông báo|thông tin|tin tức}
+{lan rộng|lan rộng ra|mở rộng}
+{bao che|bao phủ|bao trùm|che phủ}
+{tất cả khu vực|tất cả vùng|toàn khu vực|toàn vùng}
+{phát triển|tiến lên}
+{lộ diện|mở ra|xuất hiện|xuất hiện thêm}
+{cục bộ|toàn bộ}
+{vừa mới rồi|vừa qua|vừa rồi}
+{báo tin|cung cấp thông tin|cung cấp tin|đưa thông tin|đưa tin|tin báo}
+{đang chạy|đang hoạt động|đang làm việc}
+{công suất tối đa|công xuất cực mạnh|hết công xuất}
+{có những địa điểm|có những nơi|có nơi}
+{chiếu qua|chiếu thẳng qua|xuyên qua|xuyên thẳng qua}
+{chói mắt|lóa mắt|mắt chói}
+{màn hình|màn hình hiển thị|screen}
+{không  còn|không hề|không thể}
+{nhìn được rõ|nhìn rõ|nhìn thấy được rõ|nhìn thấy rõ}
+{nó bị lóa|nó bị nhòe}
+{không cần bận tâm|không cần lo|không phải bận tâm|không phải lo}
+{đang đến|đang tới|sắp đến|sắp tới}
+{đặc biệt|đặc thù}
+{chịu lực tốt|chống chịu được lực tốt|chống được lực tốt}
+{không ổn định|tạm bợ|tạm thời}
+{băn khoăn lo lắng|lo lắng|lo ngại}
+{cản được|cản trở được|chống được|hạn chế được}
+{đem về|đưa về|mang về}
+{hoàn hảo|tuyệt đối|tuyệt đối hoàn hảo}
+{sự đi lên|sự phát triển|sự tiến lên}
+{cũng nghĩa|đồng nghĩa}
+{có được sự hiểu biết|có tìm hiểu|sự hiểu biết}
+{rất lớn|rất rộng|rất rộng lớn}
+{nói đến|nói đến việc}
+{không có thấy gì|không hề thấy|không thấy}
+{lạ lẫm|xa lạ|xa lánh}
+{bất cứ|bất kể}
+{đã đặt chân đến nơi đó|đã từng đến|đã từng đến đó|đặt chân đến}
+{có muốn|cũng muốn|vẫn muốn}
+{nằm ở trong|nằm phí trong|ở phía trong|ở trong}
+{đã có lần|đã từng}
+{khẳng định|xác định|xác minh}
+{còn chờ gì|còn mong chờ gì|còn trông chờ gì|còn trông đợi gì|còn trông mong gì}
+{nước pha|nước pha trộn|nước trộn lẫn}
+{bóc hết|bóc hết tất cả|bóc tất cả|gỡ hết|gỡ hết tất cả|tháo hết|tháo tất cả}
+{đế giấy|mặt đáy của giấy|mặt dưới của giấy}
+{đừng nên|không nên}
+{không có tác dụng|không còn công dụng|không còn tác dụng|mất công dụng|mất tác dụng}
+{di chuyển|dịch chuyển|dịch rời}
+{xịt thêm|xịt thêm vào|xịt vào thêm}
+{để hạn chế|để ngăn cản|để tránh}
+{độ nhám|ma xát}
+{dao chuyên dùng rọc giấy|dao để rọc giấy|dao rọc giấy}
+{cắt bỏ phần mép thừa bên cạnh|cắt phần không cần dùng cạnh mép|cắt phần thừa mép}
+{bám chắc|bám chặt|bám dính chắc}
+{liên hệ|liên lạc}
+{gần gũi|thân thiện|thân thiết}
+{quá hoàn hảo|quá tốt|quá tốt đẹp}
+{chính xác|đúng chuẩn|đúng đắn}
+{chi phí|kinh phí|tiền nong}
+{hạn chế|tiết kiệm}
+{công năng|công suất}
+{liên tiếp|liên tục|tiếp tục}
+{gấp đôi|gấp hai|gấp rất nhiều lần}
+{bộ bàn|cái bàn|chiếc bàn}
+{mới mua|mới sắm|mới tậu}
+{phải đối diện|phải đối mặt|phải nhìn thấy}
+{ít ngày sau|không bao lâu sau|thời gian sau|vài ngày sau}
+{bị hư hỏng|bị nứt}
+{con gái|phái nữ|phụ nữ}
+{sẽ giữ|sẽ giữ lại được|sẽ lưu lại}
+{làn da đẹp|làn da mịn màng|làn da trắng sáng}
+{bình đựng hoa|bình hoa|lọ đựng hoa|lọ hoa}
+{của nhà|của phòng|ở trong nhà|ở trong phòng|trong phòng}
+{thời gian|thời gian tồn tại|tuổi thọ}
+{hương thơm|mừi hương|mùi thơm}
+{dài hơn|lâu bền hơn|lâu dài hơn|lâu hơn}
+{công dụng|tiện dụng|tiện ích}
+{một chút chi phí|một chút tiền|một ít chi phí|một ít tiền}
+{để đưa|để lấy|để mang}
+{có tài|có tài năng|tài giỏi|tài năng}
+{bao giờ|khi nào|lúc nào}
+{cơ hội|thời cơ|thời dịp}
+{chính xác là|đúng là|và đúng là}
+{đã được rẻ|đã rẻ}
+{lạ lẫm|mới lạ|xa lạ}
+{các bước|công việc|quá trình}
+{đa chức năng|đa công dụng|nhiều chức năng|nhiều công dụng}
+{càng  ngày|càng ngày càng|ngày càng|ngày dần}
+{ngôi  nhà mình|ngôi nhà của mình|nhà của mình|nhà mình}
+{hiểu rõ|làm rõ|nắm rõ}
+{chọn lựa|lựa chọn|lựa tìm|tìm kiếm}
+{lau chùi|vệ sinh}
+{thật cẩn thận|thật kỹ|thật kỹ càng}
+{sạch sẽ|thật sạch|thật sạch sẽ}
+{khăn không bẩn|khăn sạch|khăn sạch sẽ}
+{lượng đủ|lượng vừa đủ|lượng vùa dùng|số lượng vừa đủ|số lượng vừa dùng}
+{phía trên mặt|trên bề mặt|trên mặt}
+{canh chỉnh|canh chỉnh và sửa chữa|canh và chỉnh sửa}
+{nằm dưới|nằm ở phí dưới|nằm phí dưới}
+{nâng cao độ bám dính|nâng cao độ dính|tăng độ bám|tặng độ dính}
+{chú ý|lưu ý}
+{dán rồi gỡ|dán và gỡ|dán xong rồi gỡ|gỡ và dán}
+{nhiều lần|rất nhiều lần}
+{giảm độ bám|giảm độ bám dính|giảm độ dính|giảm độ dính|hạn chế độ dính}
+{bởi vậy|cho nên|do đó|vì thế|vì vậy}
+{cần được|cần phải được}
+{sẽ không|sẽ không thể}
+{chờ đợi|hưởng thụ|tận hưởng}
+{pr|quảng bá|quảng cáo|truyền thông quảng cáo}
+{nhộn nhịp|tấp nập}
+{lúc này|ngay lúc này|những lúc này}
+{in bạt|in giấy bạt|in trên bạt}
+{cung ứng|đáp ứng|được phục vụ|phục vụ}
+{chỉ một|có một|duy nhất}
+{cùng nhau kết hợp|kết hợp|phối kết hợp}
+{khuếch trương|khuếch trương rộng rãi|nâng cao}
+{đường phố|mặt phố|trên phố}
+{gói quà|hộp đựng quà|hộp gói quà|hộp quà}
+{phun lên|phun phủ lên|tưới lên}
+{nhãn dãn|tem dan|tem mác dán|tem nhãn dán}
+{đều biết|đều biết rõ|đều đã biết}
+{hoạt hình|hoạt họa|thiếu nhi}
+{bằng vật liệu xốp|bằng xốp}
+{phủ màu|phủ màu sơn|quét màu|quét màu sơn|sử dụng màu}
+{người bằng tuyết|người tuyết}
+{giáng sinh|lễ noel|ngày chúa sinh|ngãy lễ giáng sinh|noel}
+{theo kiểu|theo kiểu mẫu|theo kiểu sẵn|theo mẫu}
+{biểu tượng|hình mẫu|hình tượng}
+{cắt các hình xốp|cắt vật liệu xốp|cắt xốp|dùng xốp cắt}
+{ở nơi đây|và nơi đây|và ở đây}
+{trong dịp|trong mùa|trong thời điểm}
+{hiện hữu|hiện lên|tồn tại}
+{rất lâu|từ lâu}
+{ăn sâu|in sâu|ngấm sâu|thấm sâu}
+{đầu óc|tâm trí|trí nhớ|trí tuệ}
+{người dân Hà Nội|người dân thủ đô|nhân dân Hà Nội|nhân dân thủ đô}
+{bao gồm cả|của cả|kể cả|tất cả}
+{con nít|trẻ em|trẻ nhỏ|trẻ thơ}
+{đâu đó|nơi nào đó|ở đâu đó}
+{cũng khiến|cũng mang lại|cũng tạo nên|cũng tạo ra}
+{chúng ta|con người|con người ta|mọi người|người ta}
+{hứng khởi|nhộn nhịp|rộn ràng|xốn xang}
+{trong lòng|trong người}
+{pha  ít|pha chút|pha một chút|pha một chút ít|pha một ít}
+{ấm áp|ấm cúng|đầm ấm}
+{cái không khí lạnh|cái lạnh|cái lạnh lẽo|cái rét|cái thời tiết lạnh lẽo}
+{giữa mùa đông|giữa mùa rét|trong mùa đông}
+{rất nét|rõ nét|sắc nét|tinh xảo}
+{rạo rực|rực rỡ|tươi sáng}
+{in ấn bằng|in bằng|in dán}
+{in phun|in và phun}
+{bằng máy|thuộc máy|trên máy}
+{bám dính|dính vào|kết dính}
+{bóc ra|bóc tháo ra|gỡ ra|gỡ tháo ra|tháo ra}
+{mà không|mà không hề}
+{ảnh hưởng|liên quan|tác động}
+{bóc đi|boc nó đi|bóc nó đi|bóc nó ra}
+{để thay|để thay thế}
+{tiếp tục|tiếp tục công việc}
+{thực hiện|tiến hành|tiến hành triển khai|triển khai}
+{chương trình|công tác|lịch trình}
+{phòng giao dịch|phòng trao đổi|trung tâm giao dịch}
+{lúc này|ngay lúc này|trong lúc này}
+{lan tràn|tấp nập|tràn ngập|tràn trề}
+{giáng sinh|lễ giáng sinh|ngày lễ noel|noel}
+{mặt ra vào|mặt tiền|mặt trước}
+{đẹp hẳn lên|đẹp hơn|đẹp lên|trông đẹp hẳn}
+{ấn tượng|tạo ấn tượng|tạo điểm đặc biệt|tạo điểm nhấn}
+{gây nên|khiến cho|làm cho}
+{đến mức|đến mức độ|mà đến mức}
+{bên cạnh|ngay bên cạnh|ngay sát bên cạnh|sát bên}
+{gây mờ|làm mờ|làm nhạt|lu mờ|mờ nhạt}
+{mong chờ|mong đợi|trông chờ|trông đợi}
+{công cuộc|công việc|việc làm}
+{may mắn|thuận buồm xuôi gió|thuận lợi}
+{làm tăng tính|nâng cao tính|tăng cao tính|tăng tính}
+{lớn mạnh|mạnh mẽ}
+{rất tỉ mỉ|rất tinh tể|rất tinh xảo}
+{sợi bé nhỏ|sợi bé xíu|sợi nhỏ li ti}
+{khi chạm tay vào|khi đụng vào tay|khi tay chạm vào|khi tay đụng vào}
+{điểm yếu|nhược điểm|yếu điểm}
+{đó là tính|là tính}
+{ghồ ghề|không bằng phẳng|không nhẵn}
+{bong ra|bong rơi|bong rộp|bong tróc}
+{bị mờ|không được rõ|lại mờ}
+{bóng nhẵn|bóng sáng|sáng bóng|sáng hẳn}
+{công ty|đơn vị|tổ chức}
+{thật thà|trung thực}
+{nhiệt huyết|nhiệt tình}
+{bên trong và bên ngoài|nội ngoại thất|phí a trong và phí ngoài|trong và ngoài}
+{các bộ phận chi tiết|các chi tiết|các tiểu tiết|chi tiết}
+{chịu cực|chịu được khó khăn|chịu khó|chịu khố|chịu nhọc}
+{đối với|nếu như với|nếu với}
+{sẽ được giảm|sẽ giảm|sẽ giảm xuống}
+{thanh toán|thanh toán trả tiền|trả tiền}
+{không thu tiền|miễn giảm|miễn phí}
+{các tỉnh|khác tỉnh|liên tỉnh|tỉnh khác}
+{hình dáng|hình dạng|hình thể}
+{mặt bằng lưới|mặt lưới}
+{phủ bóng|phủ nền bóng}
+{hình dáng|hình dạng|hình thể}
+{mặt bằng lưới|mặt lưới}
+{phủ bóng|phủ nền bóng}
+{rất đẹp|rất là đẹp}
+{nhanh nhạy|nhạy bén|tiên tiến}
+{bộ phận dàn máy|các máy|dàn máy|hệ thống máy}
+{nhãn mác|tem mác|tem nhãn}
+{dán các hộp|dán hộp|dán lên hộp}
+{lý đúc bằng sứ|ly làm bằng sứ|lý sứ}
+{bát|chén|chén bát}
+{mà còn|mà vẫn|mà vẫn còn|nhưng vẫn}
+{chắc chắn|chính xác|chuẩn xác|tuyệt đối}
+{khoảng thời gian|quãng thời gian|thời gian}
+{đến cả|gồm cả|và cả}
+{phí trên hộp|phía trên các hộp|trên hộp|trên mặt hộp}
+{bé nhất|nhỏ nhất}
+{chính xác màu|chính xác về màu sắc|chuẩn màu|chuẩn màu sắc}
+{cán bóng|dùng cán bóng|sử dụng cán bóng|sử dụng phương pháp cán bóng}
+{cán mờ|dùng cán mờ|sử dụng cách cán mờ|sử dụng phương pháp cán mờ}
+{bậc nhất|cao cấp|hàng đầu|tốt nhất}
+{cho cán|được cán|được cho cán}
+{màng bằng nhựa|màng bằng PVC|màng nhựa|màng PVC}
+{thành các hình|thành hình|thành những hình}
+{in ấn hình|in hình}
+{lên mũ|lên nón|lên trên mũ|lên trên mũ|lên trên nón}
+{đặt giấy|đặt khổ giấy|đặt mẫu giấy|để khổ giấy}
+{khổ giấy|khung giấy|mẫu giấy}
+{cần cắt|cần để cắt|cần phải cắt}
+{bắt đầu|bắt đầu khởi động|khởi động}
+{dễ đọc|dễ nhìn đọc|đọc dễ|đọc dễ dàng}
+{lớn|to}
+{một cách rõ ràng|rõ ràng}
+{chọn chế độ|lựa chọn cách|lựa chọn chế độ}
+{cắt ngược|cắt ngược chiều}
+{cắt qua gương|cắt thông qua  gương|dùng gương cắt}
+{chờ cho nguội|chờ nguội|để nguội}
+{rồi bóc|rồi gỡ|rồi tháo|rồi tháo gỡ}
+{bóc nhẹ nhàng|bóc nhẹ tay|bóc từ từ}
+{bảng biểu các màu|bảng các màu|bảng màu}
+{chuyển nhiệt|tải nhiệt|truyền nhiệt|truyền tải nhiệt}
+{bây giờ|hiên giờ|hiện nay|ngày nay}
+{hạn chế|hạn chế và khắc phục|khắc chế|khắc phục|khắc phục và hạn chế}
+{hiện trạng|tình hình|tình trạng}
+{khí hậu|thời tiết}
+{nắng|nắng nóng|nắng và nóng}
+{hay mưa|mưa nhiều|thường xuyên mưa}
+{tuy nhiên|tuy vậy}
+{cũng cần có|cũng nên cần có|cũng nên có|cũng phải có}
+{nhất định|ổn định}
+{bóng mịn|mịn màng|trơn bóng|trơn mịn}
+{bong bóng|bọt}
+{giải thích|giải thích và tư vấn|tư vấn|tư vấn và giải thích}
+{cách đầu tiên|cách một|cách thứ nhất}
+{cần sử dụng|dùng|sử dụng}
+{bình xịt|chai xịt|lọ xịt}
+{xịt lên|xịt lên phía trên|xịt lên trên}
+{một đợt|một lần|một lượt}
+{canh cho|chờ cho|đợi cho|đợi chờ cho}
+{dán lại|dán vào|dính vào|ốp lại}
+{rồi sau đó|sau đó|tiếp đó|tiếp theo đó|và sau đó}
+{bóc dần dần|bóc từ từ|lột bỏ dần dần|lột bỏ từ từ|lột dần dần|lột từ từ}
+{đưa khăn|dùng khăn|lấy khăn|sử dụng khăn}
+{chà mạnh|chà xát mạnh|xát mạnh}
+{đến chỗ đó|đến đó|đến nơi đó}
+{chùi lại|lau lại}
+{cho sạch|cho sạch đẹp|cho sạch sẽ}
+{cách khác|cách thứ hai|cách tiếp|cách tiếp theo}
+{đầu tiên|trên hết|trước hết|trước tiên}
+{gỡ nhẹ nhàng|gỡ nhe tay|tháo nhẹ nhàng|tháo nhẹ tay}
+{mặt đáy|mặt dưới|mặt dưới đáy}
+{đã được pha|đã pha}
+{loảng|rất ít|rất loảng}
+{sau đó|tiếp đó|tiếp sau đó|tiếp theo}
+{phù hợp|thích hợp|thích ứng}
+{mục đích|mục đích sử dụng}
+{chuyển rời|di chuyển|di rời|di xịch}
+{cố định|giữ chặt|ổn định}
+{30 phút|một phần hai tiếng|nửa tiếng}
+{mặt giấy|mặt tờ giấy|mặt trên giấy}
+{cuối cùng|đến cuối|đến cuối cùng|kết thúc}
+{định dạng|định hình}
+{còn ẩm ướt|còn chưa khô|còn đang ướt|còn ướt|vẫn còn ướt}
+{cần dùng tay|nên cần dùng tay|nên dùng tay|nên sử dụng tay}
+{để nhẹ|giữ nhẹ|giữ nhẹ nhàng}
+{cố định|dính chặt|ổn định}
+{dễ dàng|đơn giản|một cách dễ dàng|một cách đơn giản}
+{theo mong muốn|theo ước muốn|theo ý muốn}
+{người dùng|người sử dụng}
+{áp dụng|sử dụng|thực hiện}
+{trên nhiều|trên rất nhiều}
+{gạch|gạch men|gạch ốp}
+{nhựa|vật liệu bằng nhựa|vật liệu nhựa}
+{Quán cfe|quán coffe}
+{quán giải khát|quán trà|quán trà sữa}
+{quán bar|sàn bar}
+{phòng hát|phòng hát karaoke|quán hát|quán hát karaoke|quán karaoke}
+{phòng internet game|quán chơi game|quán game}
+{phong cách thời trang|quần áo|thời trang}
+{cửa hàng moto|phòng trưng bày moto|salon moto}
+{beauty salon & spa|cửa hàng làm đẹp|thẩm mỹ viện làm đẹp|thẩm mỹ viện làm đẹp và chăm sóc da}
+{căn hộ cao tầng|căn hộ nhiều tầng|căn nhà cao tầng|nhà nhiều tầng|tòa nhà cao tầng}
+{xe car|xe con|xe khách|xe ô tô}
+{xe bus|xe bus công cộng}
+{nơi chờ xe bus|nơi đỗ xe bus|trạm chờ xe bus|trạm đợi xe bus|trạm xe bus}
+{cầu thang cuốn|thang cuốn}
+{luôn cập nhật|luôn luôn cập nhật|luôn update|thường xuyên cập nhật|thường xuyên update}
+{hàng hóa mới|mẫu mã mới|mẫu mới}
+{theo các|theo nhiều|theo từng}
+{sẽ đưa|sẽ đưa đến|sẽ mang|sẽ mang đến}
+{lịch dan|thời gian dán}
+{theo các mẫu|theo hình mẫu|theo khuôn mẫu|theo mẫu}
+{có sẵn|có trước|đã có sẵn|đã có sẵn trước}
+{chiều dai và rộng|kích cỡ|kích thước}
+{khổ máy in|khổ máy in ấn|khung máy in|khung máy in ấn}
+{máy  để cắt|máy cắt}
+{không nằm trong khổ giấy|nằm ngoài khổ giấy|nằm phía ngoài khổ giấy|ngoài khổ giấy}
+{khi dán|lúc dán|trong khi dán}
+{làm việc|thi công|thực hiện|tiến hành thi công}
+{nếu có|nếu đã có|nếu như bạn có|nếu như có}
+{gửi qua|gửi vào}
+{cắt hình ảnh logo|cắt logo|cắt mẫu logo}
+{cắt theo mong muốn|cắt theo yêu cầu}
+{phản quang|phản xạ}
+{cản bớt|hạ bớt|hạn chế bớt|ngăn bớt}
+{dịu mát|làm dịu|làm dịu mát|làm mát mẻ}
+{tương đồng|tương đương|tương tự}
+{xe con|xe hơi|xe ô tô}
+{màu chính|màu chủ đạo|màu chủ yếu}
+{cuộn phim dán|phim dán}
+{dành cho|để dành cho|thường dành cho}
+{cản lại|chống lại|hạn chế lại|ngăn chặn lại}
+{mùa hè|mùa nắng|mùa nắng nóng}
+{tia cực tím|tia phản xạ}
+{còn gọi là|hay còn gọi là|thường hay gọi là}
+{sức nắng|sức nắng nóng|sức nóng}
+{tia hồng ngoại|tia tử ngoại|tia UV}
+{điều hòa|máy điều hòa}
+{không cần|không cần phải|sẽ không cần|sẽ không phải cần che}
+{thi công|thực thi|tiến hành}
+{gọn lẹ|nhanh gọn|nhanh lẹ}
+{đa số|hàng chục ngàn|rất nhiều|vô số}
+{hộ dân|người dân|người dân sinh sống}
+{được chứng minh|được minh chứng|được minh chứng cụ thể|được xác minh|được xác nhận}
+{giới thiệu|lôi kéo|mách bảo}
+{phổ biến|thông dụng|thường dùng}
+{chúng ta|mọi người}
+{biết được những điều gì|biết được những gì|biết gì|biết những gì}
+{một số|một vài}
+{khảo sát|tham khảo}
+{chống ồn|chống ồn ào|chống tiếng ồn}
+{cản sáng|chống sáng|hạn chế sáng}
+{có cấu tạo|có kết cấu|có thiết kế|được cấu tạo đặc biệt}
+{một mặt|một phía}
+{bức xạ|phản xạ|sự phản xạ}
+{gia đình|hộ gia đình}
+{bên ngoài thị trường|ngoài thị trường|ở ngoài thị trường}
+{khá cao|rất cao|rất lớn|tương đối cao}
+{chỉ bằng một nửa|chỉ bằng một phần hai|chỉ bằng nửa}
+{chất lượng|về chất|về chất  lượng}
+{ngang bằng|ngang nhau|tương đương|tương tự}
+{không chọn|không hề chọn|không lựa chọn}
+{đặc biệt|nổi bật|nổi biệt|nổi trội}
+{sẽ giúp|sẽ giúp cho|sẽ giúp đỡ|sẽ tạo cơ hội}
+{chọn được|chọn lựa được|lựa chọn được|tuyển chọn được}
+{một số|một vài}
+{hiện thực|một cách thực tế|thực tế}
+{muốn nhìn rõ vào|muốn nhìn thấy vào|muốn nhìn vào|muốn thấy|muốn thấy rõ}
+{nhìn rõ|rất rõ|rất rõ nét|thấy rõ}
+{dịu mắt|dịu nhẹ mắt|nhẹ mắt}
+{ban đêm|buổi tối|trời tối}
+{nhìn rõ được|nhìn thấy|nhìn thấy được|thấy được}
+{ánh đèn|ánh đèn sáng|ánh sáng của đèn}
+{giá thấp|khá mềm|khá rẻ|tương đối rẻ}
+{cùng với lợi thế|lợi thế|ưu thế|với lợi thế}
+{cắt các chữ|cắt chữ}
+{khá lớn|khá rộng|tương đối lớn|tương đối rộng}
+{bằng số|ngay số|thông qua số}
+{đường dây nóng|hotline}
+{để được|sẽ được|và để được}
+{đầu tiên|đi đầu|đứng đầu|hàng đầu}
+{nằm trong lĩnh vực|thuộc lĩnh vực|trong lĩnh vực}
+{mới được|vừa được|vừa mới được}
+{bắt đầu|khai trương|mở cửa|xây dựng}
+{ngày lễ|ngày lễ nghỉ|ngày nghỉ dịp lễ|ngày nghỉ lễ}
+{để tạo|muốn tạo|sẽ tạo}
+{bầu khâu khí|bầu không gian|không gian|không khí}
+{mới lạ|mới mẻ|tươi mới}
+{của bản thân|của cá nhân mình|của chính bản thân mình|của mình}
+{cần dán|phải cần dán|phải dán}
+{cùng nhau|ngồi cùng nhau}
+{chia sẻ|chia sẻ trình bày|giải bày|san sẻ}
+{chia cách|chia cách riêng biệt|chia riêng|tách biệt}
+{kín đáo|kín kẽ}
+{giúp chúng ta|giúp mọi người|làm cho chúng ta|làm cho mọi người}
+{cảm nhận|cảm thấy|được cảm thấy}
+{nhẹ nhõm|thoải mái}
+{trong khi|trong lúc}
+{chỉ sọc ngang|đường kẻ ngang|đường kẻ sọc ngang.\|đường sọc ngang|kẻ sọc ngang}
+{cho các vách|cho những vách|cho vách}
+{ít hơn|rẻ hơn|thấp hơn|tiết kiệm hơn}
+{Chuyên nghiệp|thật sự chuyên nghiệp}
+{đầu tiên|đi đầu|đứng đầu|hàng đầu}
+{nằm trong lĩnh vực|thuộc lĩnh vực|trong lĩnh vực}
+{đã từng và đang|đã và đang|từng và đang}
+{chiếm lòng tin|chiếm niềm tin|chiếm sự tin cậy|chiếm sự tin tưởng}
+{đã tạo được|đã tạo ra|tạo được|tạo nên|tạo ra}
+{chữ tín|thương hiệu|uy tín}
+{Hà Nội|thành phố Hà Nội|thủ đô Hà Nội}
+{hình vân gỗ|vân gỗ}
+{đạt chuẩn|đạt đúng chuẩn|đạt tiêu chuẩn}
+{cực rẻ|rẻ nhất|thấp  nhất}
+{cực tốt|rất tốt|tốt nhất}
+{còn đang là|đang là}
+{cửa hàng|phòng trưng bày|showroom}
+{buôn bán|kinh tế|thương mại}
+{đã không còn|đã không còn gì|không còn}
+{khá nhiều|rất nhiều}
+{các lĩnh vực|các ngành nghề|lĩnh vực}
+{nhiều lần nhất|nhiều nhất|thường xuyên nhất}
+{chịu nhiệt|chịu nóng|độ chịu nhiệt|sức chịu nóng}
+{bám màu|bền màu|độ bám màu|độ giữ màu|giữ màu}
+{luôn là|luôn luôn là}
+{dán bề mặt trên|dán lên trên|dán phía trên|dán trên}
+{cho ra|đã cho ra|đã tạo ra|tạo ra}
+{rõ đường nét|rõ nét|tinh tế}
+{cho nên khi|nên khi}
+{cách nhìn|phần nhìn|phần thường nhìn}
+{được in|được in ấn|được in ra}
+{bằng mực dầu|bằng nguyên liệu mực dầu}
+{bao gồm cả|cho cả|cho tất cả}
+{cực khó|không dễ|rất khó}
+{chứa một|có một}
+{của chúng|của nó}
+{mỗi mẫu|mỗi từng mẫu|từng loại mẫu|từng mẫu}
+{trang hoàng|trang trí}
+{được bền|được chắc chắn|được lâu|luôn bền}
+{bước sau đây|các bước sau|những bước sau|những điều sau|thứ tự sau}
+{và chờ đợi|và đợi|và ngồi đợi}
+{khô cả|khô hẳn|khô hết|khô hoàn toàn|khô toàn bộ}
+{mong muốn|nhu cầu|yêu cầu}
+{cũng như|như}
+{căn cứ vào|dựa trên|dựa vào|xác định vào}
+{cách dùng các màu|cách lựa chọn màu|cách phối màu|cách trộn lẫn các màu|phối màu}
+{tìm để mua|tìm mua}
+{dung dịch|hỗn hợp}
+{vào bề mặt|vào mặt|vào trên mặt}
+{cần dán|mong muốn dán|muốn dán|nên dán}
+{càng ẩm ướt|càng ướt|ướt càng nhiều|ướt nhiều}
+{càng đảm bảo hơn|càng tốt|càng tốt hơn|tốt hơn}
+{công việc dán|việc dán}
+{khô lớp trên mặt|khô mặt|khô phía trên mặt}
+{thì chuyện|thì vấn đề|thì việc}
+{bám chắc|bám chặt|bám lâu|dính chắc|dính chặt|dính kỹ|dính lâu}
+{được công việc|được vấn đề|được việc}
+{bề mặt phẳng|mặt phẳng}
+{cây gạt cao su|thành dùng để gạt cao su|thanh gạt cao su}
+{đề bồi lại|đê khỏa lại|để lấp lại|để tráng lại}
+{để bôi lại|để cán lại|để làm lại}
+{bước này|công đoạn này|đoạn này}
+{bị khô|bị khô quá|khô}
+{nhận dịch vụ in|nhận dịch vụ in ấn|nhận in|nhận in ấn}
+{dán bề mặt tủ|dán lên tủ|dán trên tủ|dán tủ}
+{cáp viễn thông|viễn thông}
+{dàn máy cắt|dàn thiết bị máy cắt}
+{chuyên để dùng|chuyên để sử dụng|chuyên dùng|chuyên dụng|chuyên sử dụng}
+{đường chỉ nét|đường nét|họa tiết}
+{kịp thời nhất|mau nhất|nhanh nhất}
+{dụng cụ|loại thiết bị|thiết bị}
+{này đã được|này được}
+{chứ không|chứ không cần|chứ không hề}
+{không bị|khồng hề bị}
+{khi in|khi in ấn|trong khi in|trong khi in ấn}
+{bên trên|ở bên trên|phía bên trên|phía trên}
+{giao diện|hình mẫu|skin}
+{được bao bọc|được bao phủ|được bao trùm|được phủ bọc}
+{trầy và xước|trầy xát|trầy xước|xước xát}
+{bay màu|nhạt màu|phai  và nhạt màu|phai màu}
+{có độ|có tính}
+{co dãn|đàn hồi}
+{tính dẻo|tính mềm dẻo}
+{bền hơn|bền lâu|bền lâu hơn}
+{đã được|và đã được|và được}
+{bảo đảm|bảo hành|cam đoan|đảm bảo}
+{hơn nữa|hơn thế nữa|không những thế}
+{chất liệu|loại chất liệu|vật liệu}
+{mặt bằng|mặt phẳng}
+{cùng với|cùng với sự|với sự}
+{dính nối|kết dán|kết dính|kết nối}
+{không có|không hề có}
+{gỡ bỏ|gỡ ra|tháo bỏ|tháo gỡ|tháo ra}
+{hơn nữa|không chỉ như vậy|không chỉ thế|không chỉ vậy|không những thế}
+{chuyển mẫu|đem mẫu|đưa mẫu}
+{cùng với|song song với}
+{hoạt bát|năng động|năng nổ}
+{Hồ Chí Minh|thành phố Hồ Chí Minh}
+{không ở gần|ở cách xa|ở xa}
+{đã cắt|đã được cắt}
+{hỏa tốc|tốc hành}
+{đo đạc|đo lường}
+{công thêm|sẽ tính|và tính}
+{các bước|các quy trình|quy trình}
+{cần in|cần in ấn|cần phải in|cần phải in ấn}
+{mẫu để in|mẫu dùng in|mẫu in|mẫu in ấn}
+{bàn giao|bàn trả|chuyển giao|giao trả}
+{cam đoan|cam kết|thỏa thuận}
+{địa chỉ|địa điểm}
+{khách hàng|quý khách}
+{được bền|được chắc chắn|được lâu|luôn bền}
+{bước sau đây|các bước sau|những bước sau|những điều sau|thứ tự sau}
+{và chờ đợi|và đợi|và ngồi đợi}
+{khô cả|khô hẳn|khô hết|khô hoàn toàn|khô toàn bộ}
+{mong muốn|nhu cầu|yêu cầu}
+{cũng như|như}
+{căn cứ vào|dựa trên|dựa vào|xác định vào}
+{cách dùng các màu|cách lựa chọn màu|cách phối màu|cách trộn lẫn các màu|phối màu}
+{tìm để mua|tìm mua}
+{dung dịch|hỗn hợp}
+{vào bề mặt|vào mặt|vào trên mặt}
+{cần dán|mong muốn dán|muốn dán|nên dán}
+{càng ẩm ướt|càng ướt|ướt càng nhiều|ướt nhiều}
+{càng đảm bảo hơn|càng tốt|càng tốt hơn|tốt hơn}
+{công việc dán|việc dán}
+{khô lớp trên mặt|khô mặt|khô phía trên mặt}
+{thì chuyện|thì vấn đề|thì việc}
+{bám chắc|bám chặt|bám lâu|dính chắc|dính chặt|dính kỹ|dính lâu}
+{được công việc|được vấn đề|được việc}
+{bề mặt phẳng|mặt phẳng}
+{cây gạt cao su|thành dùng để gạt cao su|thanh gạt cao su}
+{đề bồi lại|đê khỏa lại|để lấp lại|để tráng lại}
+{để bôi lại|để cán lại|để làm lại}
+{bước này|công đoạn này|đoạn này}
+{bị khô|bị khô quá|khô}
+{rất an toàn|rất bền|rất bền chắc|rất chắc|rất chắc chắn}
+{cho chuyện|cho công việc|cho việc}
+{dán kèm lên|dán lên|dính  kèm lên|dính lên}
+{việc bóc|việc gỡ|việc tháo}
+{dễ dính bẩn|dễ gây bẩn|dễ làm bẩn|dễ tạo ra vết bẩn}
+{cho phép|được phép}
+{tạo nên nhiều|tạo nhiều|tạo ra nhiều|tạo thành nhiều}
+{đi cùng|đi kèm|đính kèm|kèm theo}
+{một số lượng lớn ảnh|nhiều ảnh|vô số ảnh}
+{đồ họa|hình đồ họa|hình họa}
+{lập trình|lập trình sẵn|thiết kế|xây dựng}
+{bảng biển|bảng hiệu|biển hiệu}
+{ánh sáng|độ sáng|khả năng chiếu sáng}
+{cực đại|lớn cực đại|lớn nhất}
+{ánh sáng nhất|chiếu sáng nhất|sáng nhất}
+{biểu hiện rõ|hiện rõ|hiện thị rõ}
+{ban ngày|buổi ngày}
+{bật đèn|bật đèn sáng|để đèn sáng}
+{cả ngày|suốt cả ngày|suốt ngày|xuyên ngày|xuyên suốt ngày}
+{cả đêm|suốt cả đêm|suốt đêm|xuyên đêm|xuyên suốt đêm}
+{khi sáng|những khi sáng|những lúc sáng|trong khi sáng}
+{dung lượng|năng lượng}
+{tiêu hao|tiêu thụ|tiêu tốn}
+{giảm bớt|giảm đi|giảm hơn|giảm thiểu}
+{sáng bằng|sáng ngang|sáng ngang bằng|sáng tương đương|sáng tương tự}
+{có thể bị|và bị}
+{mờ dần|mờ nhạt dần|tối dần|yếu dần}
+{chớp nháy|không ổn định|nhấp nháy}
+{hoạt động|làm việc}
+{thấp dần|yếu dần|yếu dần đi|yếu đi}
+{còn chỉ|và chỉ|và chỉ còn}
+{bật ánh sáng|bật sáng|chiếu sáng}
+{khi có|những khi có|những lúc có|trong lúc có|trường hợp có}
+{gây hao|gây hao phí|gây hao tổn|gây tiêu hao|gây tốn}
+{nhựa đặc|nhựa được cô đặc|nhựa kết cấu đặc}
+{cháy nổ|cháy phát nổ}
+{chịu áp lực từ va đập|chịu lực va đập|chịu va đập}
+{rơi mạnh|rơi rớt mạnh|rớt mạnh}
+{hóa chất|nhân tố hóa học|thành phần hóa chất}
+{hỏng hóc|hư hại|hư hỏng}
+{chỉ cần|chỉ cần có|chỉ có}
+{đèn LED|đèn LED chiếu sáng|LED}
+{có thời gian sống|có tuổi đời|có tuổi sống|có tuổi thọ|tồn tại}
+{giờ chiếu sáng|giờ phát sáng|giờ sáng|giờ tạo sáng}
+{có sự cố|có trục trặc|có vấn đề|gặp sự cố|gặp trục trặc}
+{một số bóng|một vài bóng|vài ba bóng}
+{chất liệu thủy tinh|chất thủy tinh|thủy tinh|thủy tinh trong}
+{sự đụng chạm|sự va chạm|va phải}
+{nếu là|nếu như là|nếu như trong trường hợp là|nếu trong trường hợp là|trong trường hợp là}
+{ảnh bitmap|ảnh bit-map|ảnh có độ phân giải bitmap|ảnh thuộc loại bitmap|hình ảnh bitmap|hình ảnh có độ phân giải bitmap|hình ảnh thuộc loại bitmap}
+{thì ảnh|thì hình ảnh}
+{chất lượng cao|chất lượng cực cao|chất lượng không quá tồi|chất lượng không quá tồi tệ|chất lượng tốt}
+{chất lượng ảnh|chất lượng điểm ảnh|chất lượng hình ảnh}
+{phải chuẩn|phải chuẩn chỉnh|phải đảm bảo|phải phù hợp}
+{các loại Color|các loại màu|hệ Color|hệ màu}
+{file|tệp tin}
+{điểm ảnh phân giải|độ nét|độ phân giải|độ phân giải điểm ảnh}
+{ít nhất|tối thiểu|tối yêu cầu}
+{để in ấn ra|để in ra|để in ra được}
+{là khoảng|là từ}
+{phần mềm chỉnh sửa ảnh photoshop|phần mềm photoshop|photoshop}
+{lấy một ví dụ|lấy ví dụ|lấy ví dụ như|Ví dụ|ví dụ như}
+{có nhu cầu in|có nhu cầu in ấn|muốn in|muốn in ấn}
+{cần là|phải là}
+{đó đều|trên đều}
+{in ấn được|in được}
+{đó là|này đó là|này là}
+{file đã được nén|file nén|tệp nén|tệp tin nén|tệp ZIP|tệp ZIP đã được nén}
+{đã kém|đã không cao|đã không tốt|đã tồi tệ}
+{định dạng đó|định dạng này|kiểu định dạng đó|kiểu định dạng này}
+{định dạng|format}
+{chép  file|chép tệp tin|coppy file|coppy tệp tin|sao chép file|sao chép tệp tin}
+{đi in|đi in ấn}
+{trước khi|trước lúc}
+{chuyển đổi|convert}
+{font chữ|font text|phông chữ}
+{tình huống|trường hợp}
+{hoặc có thể là|hoặc là|hoặc như là}
+{chuyển qua|chuyển sang}
+{được coi là một|là một|là một trong số}
+{thứ vật dụng|vật dụng|vật liệu dùng}
+{mỹ thuật|thẩm mỹ}
+{vẫn có|vẫn còn|vẫn đang còn|vẫn tồn tại}
+{chưa biết|chưa biết đến|chưa hiểu|không biết}
+{cách dán|cách để dán|cách làm thế nào để dán}
+{chuẩn kỹ thuật|đúng kỹ thuật|đúng tiêu chuẩn|đúng với yêu cầu}
+{bài viết|bài viết này|đoạn viết}
+{cách làm|phương pháp làm|thao tác}
+{hình mẫu vẽ|hình vẽ|mẫu vẽ}
+{bức tường|bức tường chắn|tường ngăn}
+{tăng thêm|thổi lên|thổi tăng thêm|thổi thêm}
+{chút cảm hứng|chút hồn}
+{trong chính ngôi nhà|trong ngôi nhà|trong nhà}
+{bỏ công ra|bỏ ra|đưa ra}
+{cho cái đó|cho chúng|cho việc đó}
+{cách vẽ|kiểu vẽ|phương pháp vẽ}
+{bằng sơn|dùng bằng sơn|từ sơn}
+{gây nên|gây ra|lại gây|tạo nên}
+{khi cần|khi muốn|lúc cần|lúc muốn}
+{có một cách|có một phương pháp}
+{dán ốp tường|dán tường|ốp tường}
+{chủ đề|chủ thể}
+{hầu hết|tất cả|tất thảy|với mọi}
+{nhà bếp|nhà nấu nướng|phòng bếp|phòng nấu ăn}
+{sân vườn|vườn|vườn cửa}
+{bao gồm|kể cả}
+{cá tính|ngịch nghợm|ngộ nghĩnh}
+{phim dành cho bé|phìm dành cho thiếu nhi|phim hoạt hình}
+{cảnh đẹp nên thơ|cảnh mộng mơ|cảnh thơ mộng}
+{lãng mạn|tràn đầy sức sống}
+{mê đắm|say đắm|say mê}
+{bên trong và bên ngoài|phía trong và phía ngoài|trong và ngoài}
+{có ý nghĩa|tăng thêm ý nghĩa|ý nghĩa}
+{với nhiều|với tất cả|với từng}
+{cẩn thận|sâu sắc|tỉ mỉ|tinh tế}
+{tạo ấn tượng|tạo điểm nhấn|tạo điểm nổi bật|tạo nên điểm nhấn}
+{gam màu|màu sắc|sắc màu}
+{nâng giá trị lên|nâng lên|tăng lên|tôn lên}
+{bông hoa|hình bông hoa|hình hoa|hoa lá}
+{cành cây|cành lá|cây cỏ}
+{đằng sau|ở phía đằng sau|phí a đằng sau|phía sau}
+{ghế làm việc|ghế ngồi|ghế sofa|ghế tựa}
+{là người|thuộc người}
+{hài lòng|lý tưởng|ưng ý}
+{người có ý tưởng mới|người độc lập|người phá cách}
+{đáng nhớ|kỷ niệm|lưu niệm}
+{bút ký|chữ ký}
+{bức ảnh|bức tranh|tranh ảnh}
+{cảnh đường phố|con đường|con phố|đường phố}
+{con thú|con vật|thú nuôi}
+{bông hoa|cành hoa|hoa lá|nhành hoa}
+{đồ dùng|đồ vật|vật dụng}
+{làm nên|sẽ khiến}
+{linh động|sinh động|vui nhộn}
+{chủ yếu nhận|chuyên nhận|thường nhận|thường xuyên nhận}
+{phụ thu|phụ thu thêm|thu thêm}
+{không hơn|không quá|không vượt quá}
+{bỏ công dán|công dán|công sức dán|sức dán|tiền công dán}
+{bảng giá|báo giá|giá}
+{phải dính liền|phải kết dính|phải nối}
+{chống trầy|chống trầy trượt|chống trầy xước|chống xước}
+{dán không thuận chiều|dán ngược|dán ngược chiều}
+{kiếng đục|kiếng không trong|kiếng mờ}
+{hữu hiệu|sáng suốt|tối ưu|tốt nhất}
+{bản thân mỗi chúng ta|chúng ta|tất cả chúng ta}
+{đang sinh sống|đang sống|đang tồn tại}
+{công nghệ|giải pháp công nghệ|mọi công nghệ}
+{chứa tính|có tính|mang tính}
+{theo mục đích|theo nhu cầu|theo sở thích|theo yêu cầu}
+{hoán đổi|thay bằng|thay thế}
+{bờ rào bê tông|bức tường bê tong|bức tường cứng}
+{giảm cân nặng|giảm trọng lượng}
+{chiều dài và rộng|diện tích|kích thước}
+{bên cạnh,nằm bên|ngay bên cạnh}
+{chỉ có một|chỉ tồn tại một|có duy nhất một}
+{cách thực hiện|giải pháp|phương án|phương pháp}
+{băn khoăn|rắc rối|trắc trở|vấn đề}
+{cần làm gi|như thế nào|phải làm gì|phải làm sao}
+{cùng chia sẻ|cùng đóng góp|cùng thảo luận|cùng xây dựng}
+{cách giải quyết|cách làm việc|cách xử lý}
+{hàng đầu|lớn nhất|số một}
+{biết rõ|hiểu ra|hiểu rõ|thấu hiểu}
+{khi  thuê|khi đi thuê}
+{bao gồm nhiều|gồm nhiều|với nhiều}
+{e sợ rằng|lo lắng rằng|lo rằng|lo sợ rằng}
+{nếu như thế|như thế|như vậy}
+{không dựng nên|không tạo được|không tạo nên|không xây dựng được}
+{chỉ cần|chỉ việc}
+{hồng ngoại|mặt trời}
+{không chiếu vào|không hấp thụ vào|không thu vào}
+{màu không hấp thụ nắng|màu không sáng|màu sắc tối|màu tối}
+{tấm kính màu tối|tấm phim màu}
+{chiếu vào|phản vào}
+{hơi tối|không sáng quá|tối vừa phải}
+{căn nhà|khu nhà ở|ngôi nhà|nơi ở}
+{ở phí a trên|ở trên|ở trên cao}
+{chói chang|chói lóa|chói sáng}
+{chiếu vào|hấp thụ vào|phản vào}
+{một lớp|một tấm|một tờ}
+{tia bức xạ|tia cực tím|tia hồng ngoại}
+{hay nắng nóng|nắng nóng và ẩm thấp|nhiệt độ cao|nhiệt đới gió mùa}
+{một trong|trong số}
+{sự khỏe mạnh|sức khỏe}
+{cả nhà|tất cả mọi người trong nhà|thành viên trong gia đình}
+{phòng  tiếp khách|phòng khách|phòng tiếp đón khách}
+{phòng để ngủ|phòng ngủ|phòng ngủ cá nhân}
+{để chắn|đê che|để che chắn|để ngăn cản}
+{còn có|còn có thêm|còn thêm}
+{không đủ|mất đi|thiếu tính}
+{căn nhà|căn phòng|phòng ở}
+{khoảng không gian ở sân|khoảng sân|khoảng sân vườn}
+{cảm thấy không được|không đủ|không được}
+{bức tường gạch|bức tường ngăn bằng gạch|hàng rào gạch}
+{có từ lâu|đã cũ|đã cũ và có từ lâu|không được mới}
+{một bãi đất không  làm gì|một bãi đất trống|một mảnh đất để trống|một mảnh đất không sử dụng}
+{nagy bên|ngay bên cạnh|ngay cạnh|sát bên|sát ngay bên cạnh}
+{vẫn dành được|vẫn dành lấy được|vẫn lấy được|vẫn thu được}
+{địa chỉ cung cấp|địa chỉ cung cấp|nhà cung cấp|nơi cung cấp|nơi cung ứng}
+{đầy đủ kích cỡ|đủ kích cỡ|đủ kích thước}
+{cung cấp hàng|giao hàng|gửi  hàng|phát hàng}
+{chuyển phát nhanh|cung cấp nhanh|gửi nhanh|vận chuyển nhanh}
+{tận nhà|tận nơi|tới nơi}
+{hàng hóa|sản phẩm}
+{chiết khấu|khuyến mãi|ưu đãi|ưu tiên}
+{theo giấy tờ|theo hóa đơn|trên giấy tờ|trên hóa đơn}
+{lịch sự|quý phái|sang trọng|trang trọng}
+{đã được in sẵn sang|đã được in trước|được  in sẵn|được in ấn sẵn}
+{nhà tắm|phòng tắm|phòng tắm giặt}
+{keo|keo dán|keo dán giấy}
+{bao phủ trên mặt|bao trùm lên mặt|phủ lên mặt|phủ lên phía trên mặt}
+{bao gồm một lớp|gồm một lớp|gồm một tầng|gồm một tầng lớp}
+{màng bọc nhựa|màng nhựa|tầng nhựa}
+{được dán keo|được dùng keo để tráng lên|được trán keo}
+{gắn kết|gắn kết lại|kết nối|nối lại}
+{riêng cho|riêng của}
+{có khi nào|có lúc nào|có những lúc}
+{một khu|một nơi|ở một địa điểm}
+{phần cánh cửa|phần cửa|phía cửa}
+{cũng muốn|mong muốn|muốn làm}
+{chính trong ngôi nhà của bạn|ngay tại nhà|tại nhà|tại nơi bạn ở}
+{dán càng chuẩn|dán càng chuẩn đẹp|dán càng đẹp|dán càng ưng ý}
+{khăn bông lau|khăn lau|khăn thấm lau}
+{còn lại|để lại|giữ lại|vướng lại}
+{bụi|lớp bụi|những vết bụi|vết mờ do bụi}
+{đo khoảng cách|tính khoảng cách|xác định khoảng cách}
+{cần dán|cần nên dán|để dán|nên dán}
+{diện tích chuẩn|đúng chuẩn diện tích|đúng diện tích}
+{hạn chết thiếu|không để thiếu|tránh thiếu|tránh việc không để thiếu}
+{bao gồm nước|chứa cả nước|có cả nước|gồm nước}
+{chất làm nên bọt|chất tạo bọt|chất tạo ra lớp bọt}
+{bột giặt|xà bông|xà phòng}
+{nước rửa bát|nước rửa chén|nước rửa chén bát}
+{bởi vì|sở dĩ|tại vì}
+{để chế tạo ra|để làm ra|để tạo}
+{miếng dán|tấm dán|tấm miếng dán}
+{khi cần|lúc cần|những khi cần dùng|những lúc cần dùng}
+{chỉnh sửa|điều chỉnh|thay đổi}
+{vào bình|vào phía trong bình|vào trong bình}
+{bình tưới cây|bình tưới cây cảnh|bình tưới chăm sóc cây|bình tưới hoa}
+{bình đựng nước|chai lọ đựng nước|chai nước|lọ nước}
+{lau chùi kiếng|lau chùi kính|lau kiếng|lau kính}
+{bề mặt|bề mặt phía trên|mặt trên cùng|phía trên ,mặt}
+{bị khô keo|bị khô quá|bị khô,bị để quá khô}
+{dán không chuẩn|dán không đẹp|dán mờ|dán sẽ xấu|dán xấu}
+{bong khỏi|ra khỏi|rời khỏi|rời ra khỏi}
+{lớp giấy|tầng giấy|tờ giấy}
+{không để|không được để|không nên để}
+{bị dán|bị dính|dính kèm|dính lại}
+{sát vào nhau|vào nhau|vào với nhau}
+{vừa bóc|vừa dỡ ra|vừa tháo}
+{làm cho|làm sao|sao cho}
+{lên mặt|lên phía trên mặt|lên trên bề mặt}
+{chứa keo dính|có chứa keo dính|có keo dính|gồm keo dính}
+{cân chỉnh|căn chỉnh|căn sửa|chỉnh sửa}
+{cho thật|làm sao cho thật}
+{trước khi bắt đầu dán|trước khi dán|trước khi tiến hành dán}
+{không nên để keo|tránh để keo}
+{lớp nước|nước}
+{bọt bong bong|lớp bong bong|lớp bọt}
+{cây lau|chổi lau|đồ vật dùng để lau|dụng cụ lâu}
+{cái gì|đồ vật gi|vật gì}
+{bề mặt phẳng|thật bằng|thật phẳng}
+{cạnh thước|đường viền thước|mép thước}
+{nhựa cứng|nhựa thuộc loại cứng}
+{card|thẻ}
+{dàn ra|đẩy lên|kéo lên|vuốt lên}
+{bề mặt|phía  trên bề mặt|trên bề mặt}
+{ít lần|một số lần|vài ba lần|vài lần}
+{làm sao|làm sao cho|sao cho}
+{gạt hết|hất hết|làm bay hết|làm mất hết}
+{bọt nước|lớp bọt do nước tạo ra|lớp bọt nước}
+{bọt khí|lớp bọt do khí tạo ra}
+{bong ra khỏi|mất đi khỏi|ra khỏi|rời ra|rời ra khỏi}
+{khi đã dán rồi|khi dán xong|sau khi dán}
+{trong hoàn cảnh|trong khi|trong trường hợp|với những trường hợp}
+{dao cắt giấy|dao dùng để cắt rọc giấy|dao rọc giấy}
+{thước dùng để kẻ|thước kẻ|thước nhựa kẻ}
+{cắt mép|cắt phía mép|cắt xung quanh mép}
+{không nên để|tránh để|tránh việc để}
+{cho kỹ và chính xác|cho kỹ và đúng|thật kỹ và chính xác|thậy kỹ và đúng}
+{bóc lớp|bóc tháo lớp|tháo lớp}
+{có tính bám dính cao|độ bám cao|độ dính bền|khả năng bám dính cao}
+{bám bụi bẩn|bám dính bụi bẩn|dính bụi}
+{chuẩn xác|không bị lệch|không lệch|không sai lệch}
+{hoàn thành|làm việc|thực hiện|tiến hành}
+{hoàn chỉnh|thành công|tốt đẹp}
+{in ấn|in ấn và dán|in dán}
+{khi làm xong|sau  khi làm xong|sau khi}
+{biểu tượng in|hình in|logo in|mẫu mã in}
+{demo|phác họa|phác thảo|tổng quát}
+{in để làm mẫu trước|in mẫu|in trước hình mẫu}
+{cách nhanh nhất|một cách nhanh}
+{hình mẫu|loại mẫu|với loại hình mẫu|với mẫu}
+{kỹ thuật|nhân viên kỹ thuật|nhân viên kỹ thuật chỉnh sửa|nhân viên sửa chữa}
+{in lên trên|in ở|in trên|in vào}
+{hiện đại số|kỹ thuật số|tiên tiến nhất}
+{đây chính là|đây là|ở đây chính là}
+{cơ sở|nền móng|nền tang|nới bắt đầu}
+{cơ chế hoạt động|phương châm hoạt động|phương thúc hoạt động}
+{không chỉ có|không chỉ dừng loại|không dùng lại}
+{hị vọng rằng|mơ ước|mong muốn|mong rằng}
+{cao nhất|lớn nhất|tối đa|tốt nhất}
+{trong giờ hành chính|trong giờ làm việc}
+{băn khoăn|khúc mắc|thắc mắc}
+{trong công tác|trong công việc|trong việc}
+{các dịch vụ|dịch vụ|hình thức|hình thức dịch vụ}
+{đặt dịch|đặt đơn hàng|đặt hàng|tạo đơn hàng}
+{công đoạn cắt dán|quá trình cắt dán}
+{bao gồm nhiều|có nhiều|được  nhiều}
+{cắt dán|cắt và dán}
+{lên tấm|lên trên tấm|mặt trên tấm|phía trên tấm|trên tấm}
+{cách hiệu quả nhất|cách nhanh nhất|cách tốt nhất}
+{tên thương hiệu|tên tuổi|thương hiệu}
+{mức độ vừa phải|trung bình|vừa đủ|vừa phải}
+{hạn chế việc nhiều quá|không nên nhiều quá|tránh nhiều quá}
+{gây rối|làm gây rối|làm rối}
+{cách này|phương pháp này|sử dụng phương pháp này}
+{tránh sự đơn điệu|tránh sự nhàm chán|tránh sự tẻ nhạt}
+{hiệu quả|kết quả}
+{sẽ có được|sẽ dành được|sẽ đạt được|sẽ được}
+{mẫu giấy dán|mẫu giấy dán kiếng|mẫu mã giấy dán kính}
+{chỉ kẻ ngang|chỉ ngang|đường kẻ ngang|kẻ ngang}
+{cách cắt chữ và in chữ|cắt chữ và in|cắt và in chữ}
+{biệu tượng công ty|biểu tượng logo|hình ảnh|hình ảnh sản phẩm|logo|logo sản phẩm}
+{chỗ vết cắt gọn|vết cắt được cắt một cách gọn|vết cắt gọn}
+{hình thức lịch sự|lịch sự|mang lại sự lịch sự}
+{công dụng tốt nhất|hiệu quả nhất|kết quả tốt nhất|tốt nhất}
+{độ che mờ|khả năng che mờ|khả năng che mờ|khả năng làm mờ}
+{dày dặn hơn|dày hơn|nhiều hơn|trong dày hơn}
+{mịn hơn|mịn màng hơn|tạo nên sự mịn hơn|trông mịn hơn}
+{đã có|đã có rất nhiều}
+{đa dạng hình thức|đa dạng mẫu mã|mẫu mã phong phú|mẫu phong phú|nhiều mẫu|nhiều mẫu mã}
+{buôn bán|buôn bán kinh doanh|kinh doanh|kinh doanh buôn bán}
+{đường vách ngăn|vách ngăn|vách ngăn chia}
+{nhìn trong suốt|trong suốt|trong veo}
+{cánh cửa ra vào|cửa ra vào|cửa vào|lối ra vào}
+{cửa sổ|cửa sổ nhìn ra ngoài|khung cửa sổ}
+{chuyến qua|chuyển tiếp|nối tiếp|sự chuyển tiếp giữa}
+{bên trong|nằm trong|phía bên trong|phía trong}
+{lấy sáng vào phòng|thu ánh sáng vào}
+{nhìn thấu|nhìn xuyên|nhìn xuyên qua|nhìn xuyên thấu}
+{là công việc|là điều|là việc}
+{giấy dán|giấy dán tường|giấy ốp|giấy ốp tường}
+{giúp cho|giúp đỡ cho|giúp ích cho|thuận lợi cho}
+{cắt chữ tên|cắt chữ theo tên|cắt tên chữ}
+{câu chào mừng|lời chào mừng|lời giới thiệu|sự chào mừng}
+{câu khẩu hiệu|khẩu hiệu|slogan}
+{cân nhắc|cân xem|lưu ý|nhăc nhở|xem xét}
+{cảnh vườn|khu vườn|sân vườn}
+{hướng ra ngoài|nhìn hướng ra phía ngoài|nhìn ra ngoài|nhìn ra phía ngoài}
+{dựng nên một lớp|tạo dựng ra một lớp|tạo một lớp|tạo ra một lớp}
+{cường độ|độ mạnh}
+{chiếu qua|chiếu xuyên qua|chiếu xuyên thấu qua}
+{cách biệt|riêng biệt|tách biệt|tách riêng biệt}
+{cách biểu hiện|thái độ|thể hiện thái độ}
+{hoàn chỉnh|hoàn thành|hoàn thành xong|hoàn thiện}
+{bé nhất|ít nhất|thấp nhất}
+{cách làm việc tốt nhất|dịch vụ đảm bảo nhất|dịch vụ hiệu quả nhất|dịch vụ tốt nhất}
+{hào nhoáng|quý phái|sang  trọng|trang trọng}
+{cánh cửa|cửa nhà|góc cửa|ô cửa}
+{chất lượng độ bền|độ bền|thời gian chịu đựng}
+{chuyên nghiệp|có tính chuyên nghiệp|có trách nhiệm}
+{bao bọc khắp|phủ khắp|rộng rãi|tràn khắp|tràn lan}
+{Giấy dán tường|giấy dùng để dán tường|giấy ốp tường}
+{chất lượng kém|chất lượng không đảm bảo|không đảm bảo|không tốt}
+{hết hạn|hết hạn sử dung|hết thời gian sử dụng|quá hạn|quá hạn sử dụng}
+{bề mặt keo dính|lớp keo|lớp keo dính|tầng keo|tầng lớp keo}
+{giá cả rẻ|giá rẻ|giá thấp}
+{độc hại|không tốt cho sức khỏe|tác hại}
+{tự động|tự nhiên}
+{bong ra|bong tróc|hỏng hóc|mất dính|rơi ra}
+{cảnh báo|khuyến cáo|nên chú ý}
+{cần chọn|hãy chọn|nên cần chọn|nên chọn}
+{có chất lượng|có chữ tín|có tên tuổi|có thương hiệu|có tiếng tăm|có uy tín}
+{cận thận khi mua|cần tránh mua|không nên|tránh mua}
+{điểm mạnh|điểm vượt trội|ưu điểm}
+{rất hoàn hảo|rất tốt|rất tuyệt vời}
+{đã được|đã và đang được|đang được}
+{đem đến|đem lại|đem tới|mang đến|mang lại|mang tới}
+{người đang ngồi|người ngồi}
+{bên trong nó|phía bên trong đó|phía bên trong nó|phía trong đó}
+{hiển thị trên|hiện trên}
+{đó chính là|đó là}
+{black color|màu đen}
+{blue color|màu xanh}
+{greend color|màu xanh lá cây}
+{màu đỏ|red color}
+{màu trắng|white color}
+{gold color|màu vàng}
+{tùy theo|tùy thuộc theo|tùy thuộc vào|tùy vào}
+{bạn|khách hàng|người đặt hàng|quý doanh nghiệp|quý khách|quý khách hàng}
+{phủ lớp mờ|phủ mịt|phủ mờ}
+{và giảm|và làm giảm}
+{khá tốt|khá tuyệt vời|tương đối tốt|tương đối tuyệt vời}
+{được dùng|được sử dụng}
+{cả nước|đất nước hình chữ S|nước ta|toàn quốc|Việt Nam|VN}
+{dạng Decal|kiểu decal|loại Decal|mẫu decal}
+{có khả năng|có thể|rất có thể|sẽ có khả năng|sẽ có thể}
+{1 phần|một phần|một phần nào đó}
+{tạo nên sự|tạo nên việc|tạo ra sự|tạo ra việc|tạo sự|tạo việc}
+{hàng ngàn|hàng nghìn|hàng triệu|hàng tỷ}
+{ở khu vực|ở vị trí|trên địa bàn|trên khu vực|trên vị trí|trong khu vực|trong vị trí}
+{không giới hạn|không ít|không nhỏ|rất lớn|rất nhiều}
+{con số|số lượng}
+{chất lượng dịch vụ|chất lượng hàng hóa|chất lượng sản phẩm}
+{chi phí|giá cả|giá thành|ngân sách}
+{cạnh tranh|cạnh tranh và đối đầu|đối đầu}
+{chuyên cung cấp dịch vụ in ấn|chuyên cung cấp giải pháp in ấn|chuyên in ấn}
+{Decal|De-cal}
+{dòng Decal|loại Decal}
+{đây được coi như là|đây được xem là|đây được xem như là|đây giống như là|đó được coi như là}
+{phủ khắp rộng rãi|rộng rãi|thoáng rộng}
+{thị phần|thị phần tiêu dùng|thị trường|thị trường tiêu dùng}
+{đối với các|đối với những}
+{công sở|văn phòng|văn phòng công sở|văn phòng và công sở}
+{biệt thự|căn nhà|tòa nhà}
+{cao ốc|chung cư}
+{hotel|khách sạn}
+{kiến trúc|thiết kế|thiết kế kiến trúc}
+{tường áp kính|tường bằng kính|tường được lắp bằng kính|tường kính|tường ốp kính}
+{dịu ánh nắng|dịu ánh sáng|dịu nhẹ ánh nắng|dịu nhẹ ánh sáng|nhẹ ánh nắng|nhẹ ánh sáng}
+{ánh nắng|ánh sáng}
+{ánh nắng chiếu|ánh nắng phản chiếu|nắng chiếu|nắng phản chiếu}
+{thẳng trực tiếp|trực tiếp}
+{khoảng không|không gian|không trung}
+{cũng giống như|cũng giống với|cũng tương tự như|cũng tương tự với|không khác gì như|không khác gì với}
+{kiếng|kính}
+{để áp vào|để dán đè vào|để dán vào|để ốp vào}
+{các khối|các tấm|các tấm khối}
+{nghệ thuật|nghệ thuật thẩm mỹ|thẩm mỹ}
+{đẹp hơn|đẹp lung linh hơn|đẹp tuyệt vời hơn|xinh hơn|xinh xắn hơn}
+{các|những}
+{hình mẫu thiết kế|họa tiết|họa tiết hoa văn|họa tiết thiết kế|hoa văn|kiểu thiết kế}
+{in trên mặt decal|trên decal|trên mặt của decal|trên mặt decal}
+{sẽ gây|sẽ hình thành nên|sẽ tạo}
+{cảm giác|cảm nghĩ|cảm xúc}
+{người đối diện|người ngắm|người nhìn|người trông|người xem}
+{Dán kính Decal|Decal dán kính|Mẫu dán kính decal|Sản phẩm Decal dán kính}
+{kết quả|sản phẩm|thành phẩm|thành quả}
+{công nghệ cao|công nghệ hàng đầu|công nghệ tiên tiến|công nghệ vượt bậc}
+{làm nên|tạo nên|tạo ra|xây dựng nên}
+{công dụng|công năng|đặc tính|tính năng}
+{cách nắng|che nắng|chống nắng|hạn chế nắng|ngăn ngừa nắng}
+{cách nhiệt|cản nhiệt|chống nóng|giảm nhiệt|hạ nhiệt}
+{có một không hai|đặc biệt|độc đáo|sáng tạo}
+{chuyên dùng|chuyên sử dụng|dùng cho|thường dùng|thường sử dụng}
+{nhà bằng kính|nhà bóng kính|nhà kính}
+{màu sắc|sắc màu}
+{đa dạng|đa loại|nhiều loại|phong phú}
+{bỏ bớt|hạn chế|loại bỏ|loại trừ}
+{bảo đảm|bảo vệ|chăm sóc}
+{đồ bên trong|đồ đạc trong nhà|nội thất}
+{có tác dụng|làm|làm cho}
+{giảm nhiệt độ|hạ nhiệt|mát hơn|nhiệt độ thấp hơn}
+{giảm bớt|giảm thiểu|hạn chế}
+{điện|năng lượng điện}
+{máy điều hòa|máy giảm nhiệt|máy làm mát|máy lạnh}
+{cản trở|che khuất|che lấp|hạn chế|ngăn cản}
+{hướng nhìn|khoảng cách nhìn|tầm nhìn}
+{bên ngoài|ngoài trời|phía ngoài}
+{các loại|loại|một số loại|nhiều loại}
+{mành|rèm|tấm che}
+{chiều dai và rộng|độ lớn|kích thước}
+{chủ thể|công ty|cửa hàng|đơn vị}
+{bán|buôn bán|chào bán|cung cấp|phân phối}
+{bao gồm|chính|chủ yếu|thiết yếu}
+{buôn bán|công tác|làm việc}
+{dài|lâu năm|nhiều năm}
+{chúng tôi|Công ty|cửa hàng|shop}
+{bộ phận nhân lực|cán bộ nhân viên|đội ngũ nhân viên|nhân viên}
+{cứng tay|giàu kinh nghiệm|giỏi nghề|lành nghề}
+{chế tạo|phát minh|sáng tạo|tạo ra}
+{bộ máy|hệ điều hành|hệ thống}
+{đồ đạc|máy móc|trang thiết bị}
+{hiện đại|mới nhất|tân tiến|tiên tiến}
+{bán|cung cấp|đáp ứng}
+{đơn hàng|lô hàng}

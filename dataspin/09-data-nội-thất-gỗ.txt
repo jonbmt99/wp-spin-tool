@@ -1,0 +1,505 @@
+﻿{con gà|con kê|gà|kê}
+{chữ hán|chữ hán việt|chữ nôm|chữ thời xưa|tiếng hán}
+{đọc|gọi|hiểu|phát âm}
+{cùng âm|cùng cách nói|đồng âm}
+{chuyện tốt|điều tốt|sự việc tốt|việc tốt}
+{tin mừng|tin tốt|tin vui}
+{chuyện xấu|điều hung|điều xấu|hung tin|tin xấu}
+{chính vậy|cho nên|do đó|thì là|vậy nên}
+{biểu trưng|biểu tượng|đặc trưng|hình mẫu|hình tượng}
+{phát lên|phát triển|tiến lên|tiến nhanh|tiến tới}
+{Gia đình|hộ gia đình|mái ấm|tổ ấm}
+{bao gồm|bao hàm|bao quát|khái quát|tổng quan}
+{gà bốgà mái|gà chíp|gà mẹgà con|gà trống}
+{ảnh|hình ảnh|hình họa}
+{ấm no|ấm yên|hạnh phúc|hòa bình|hòa thuận|yên ấm}
+{chỉ định|chỉ thị|ra lệnh|sai bảo|sai khiến}
+{gỗ tượng|tượng gỗ|tượng mộc}
+{mỹ nghệ|nghệ thuật đẹp}
+{làm gỗ|nghề gỗ|nghề làm gỗ|nghề mộc}
+{lấp lánh|lonh lanh|lung linh|sắc xảo|tinh hoa|tinh xảo|tráng nghệ}
+{tự hào|tự tin}
+{mộc nhân|nghệ nhân|người làm gỗ|thợ gỗ}
+{phật tượng|tượng ông phật|tượng phật}
+{dáng đứng|kiểu đứng|thế đứng|tư thế đứng}
+{hình dáng|kiểu dáng|tư thế}
+{dâng lên|dơ lên|kéo lên|nhấc lên}
+{bước đi|bước lên|bước tới|tiến bước}
+{sự quan trọng|tính quan trọng|ý nghĩa}
+{đạo phật|nhà phật|phật đạo|phật giáo}
+{bói toán|phong thủy|tử vi}
+{chắc|vững}
+{truyền đi|truyền rằng|tương truyền}
+{hồi trước|khoảng đó|ngày ấy|ngày xưa|thời gian trước|trước kia}
+{bữa trước|đợt trước|hôm trước|lúc trước|ngày trước}
+{khả năng|kỹ năng|tài năng}
+{buồn phiền|buồn rầu|muộn phiền|rầu rĩ|u sầu}
+{con người|loài người|nhân loại}
+{bỏ vào|cất vào|cho vào|để vào}
+{cục đá|khối đá|phiến đá|tảng đá}
+{biến đổi|biến thành|đổi thành|thay đổi}
+{điều tốt đẹp|điều vui|niềm an lành|niềm vui|thú vui|tươi vui}
+{cội|gốc|nơi bắt đầu}
+{bình hoa|lọ hoa}
+{dễ dàng|may mắn|suôn sẻ|thuận lợi}
+{công danh|danh tiếng|thanh danh}
+{hài lòng|thỏa lòng|thỏa mãn|viên mãn}
+{cứ ngỡ|dè chừng|ngỡ như|tưởng chừng}
+{làm phiền|nhiều chuyện|phiền phức|quấy nhiễu}
+{biết đến|biết tới|được biết|được cho là|được hiểu}
+{phép lực|quyền lực|quyền năng|sức mạnh|thần lực}
+{vô biên|vô tận|vô vàn}
+{hơi nhiều|khá nhiều}
+{thiện ý|ý tốt}
+{hấp thu|hấp thụ|thu phục}
+{sáng tươi|tươi đẹp|tươi mới}
+{ác quỷ|ma quỷ|ngũ quỷ|quỷ dữ}
+{5 điều tốt|ngũ phúc}
+{tài lộc|tài phúc|tiền lộc}
+{chung lại|chung quy|nói chung}
+{cướp đi|đem đi|lấy đi|mang đi}
+{đan xen|hòa lẫn|hòa vào|trộn lẫn|trộn vào}
+{chỉ cần|chỉ là|chỉ nên|chỉ với}
+{bức tượng|mẫu tượng|pho tượng}
+{căn nhắc|đắn đo|phân vân|suy xét}
+{đem|lấy|mang|rước}
+{đã làm|đã thử|đã trải|đã từng}
+{ghé qua|ghé thăm|ghé vào|ghé vô}
+{bán đồ|bán hàng|bán sản phẩm}
+{gỗ hương|gỗ thơmgỗ|mộc}
+{ảnh tượng|họa tượng|tranh tượng}
+{quá nhiều|rất nhiều}
+{loại gỗ|mặt hàng gỗ|nguyên liệu gỗ|sản phẩm gỗ}
+{gửi đến|gửi tặng|gửi tới|gửi trao|thân tặng}
+{đòi hỏi|lời xin|nhu cầu|nhu muốn|ý muốn|yêu cầu}
+{bạn|khách hàng|người dùng|người mua|người mua hàng|người tiêu dùng|quý khách|quý khách hàng}
+{chứng thực|kiểm tra|xác định|xác minh}
+{Cơ sở|Cửa hàng|Thương hiệu sửa chữa|Trung tâm}
+{chu kỳ|mốc giới hạn|số lần|tần số}
+{các bước|nghiệp vụ|quá trình|quy trình|thao tác}
+{hiểu được|hiểu rõ|nắm chắc|nắm được|nắm rõ|nắm vững}
+{hội chợ|nhóm chợ|nơi buôn bán|thị trường|trung tâm thương mại}
+{câu hỏi|thắc mắc|ý hỏi}
+{người đọc|người theo dõi|người tìm hiểu|người xem}
+{nhận được|nhận ra|nhận thấy|tìm được|tìm ra|tìm thấy}
+{của bạn|của bản thân|của mình}
+{giống cây|loài cây|loại cây}
+{họ đậu|họ đỗ}
+{2 lần bán kính|bán kính nhân 2|đường kính}
+{dành riêng|nói riêng|thích hợp}
+{đánh giá cao|khen ngợi|sử dụng nhiều}
+{hấp dẫn nhất|hay nhất|thú vị nhất}
+{hot nhất|mới nhất|mới ra|new}
+{dựa trên|kết hợp|phối hợp}
+{đáp ứng|phục vụ}
+{siêu phẩm|tác phẩm|tuyệt phẩm}
+{default|mặc định}
+{chờ|đợi|hóng|ngóng}
+{giỏi|hay|tốt|tuyệt|xuất xắc}
+{cực hiếm|giá trị|quý giá|quý hiếm}
+{dữ dằn|dự tợn|hung hãn|hung tợn}
+{bản lĩnh|chính trực|gan dạ}
+{chuyên nghiệp|điêu luyện|thành thạo}
+{khác nhau|sự khác biệt|sự so sánh}
+{bỏ lỡ|bỏ mất|bỏ phí|bỏ qua}
+{kiên cường|quyết tâm|suy nghĩ|ý chí}
+{ào ạt|ồ ạt}
+{bảo đảm|đảm bảo|hứa hẹn}
+{chững chạc|chững chàng}
+{chừng đỗi|chừng mực}
+{chứng nhận|chứng thực}
+{chất lượng cao|chất lượng tốt|đảm bảo chất lượng}
+{chịu trách nhiệm|có trách nhiệm|nhận trách nhiệm}
+{gần đúng|giao động|khoảng|sấp xỉ}
+{phân bố|phân bổ|phân vùng}
+{bản đất|bản địa|bản làng|vùng bản}
+{quái thú|quái vật|thú vật}
+{khóc lóc|mếu máo|than khóc|thút thít|tỉ ti}
+{tuân hành|tuân thủ|vâng lệnh}
+{không có tội|vô tội}
+{đối mặt|đương đầu}
+{biến thành|trở thành}
+{điều khoản|lao lý|luật pháp|pháp luật|quy định}
+{biển|đại dương|hồ}
+{chuyên mục|phân mục|thể loại}
+{đánh dấu|ghi lại|khắc ghi|lưu lại}
+{chụp ảnh|tự sướng}
+{đa dạng|nhiều chủng loại}
+{khẩu pháo|khẩu súng}
+{nhiếp ảnh gia|thợ chụp ảnh}
+{gương mặt|khuôn mặt}
+{rạng ngời|tỏa sáng}
+{đẹp mắt|thích mắt} 
+{ý nghĩ đó|ý tưởng}
+{khu trung tâm thương mại|khu vui chơi}
+{phần trăm|xác suất}
+{chiếm được|nhận được|thu được}
+{mới|thế hệ}
+{lạ lẫm|xa lạ}
+{thu thập|tích lũy}
+{cam go|gay cấn} 
+{dễ chịu|thoải mái}
+{dại dột|dại khờ|khờ khạo|khù khờ}
+{mỏng|mỏng dính|mỏng manh|mỏng mảnh|mỏng tanh}
+{chen chúc|chi chít|dày đặc|rậm rạp|rầm rịt|sum sê|um tùm|xum xê|xum xuê}
+{ban đêm|đêm hôm|đêm tối}
+{phát hành|phát triển|sản xuất|tạo ra}
+{bắt mắt|đã mắt|dễ nhìn}
+{chi tiết|cụ thể} 
+{hiền|hiền đức|hiền hậu|hiền khô|hiền lành|nhân hậu|nhân từ|thánh thiện}
+{an ninh|an toàn|bình an|bình yên}
+{ẩm mốc|ẩm thấp|ẩm ướt}
+{đặc sắc|rực rỡ}
+{đầy đủ|hoàn toản|toàn diện|toàn vẹn|trọn vẹn|vừa đủ}
+{chạm chán|chạm mặt|gặp|gặp gỡ|gặp mặt}
+{thách thức|thử thách}
+{nâng cấp|tăng cấp|upgrade}
+{âm thầm|lặng lẽ}
+{kỹ càng|kỹ lưỡng}
+{dấn thân|lao vào|xả thân}
+{bao quanh|xung quanh}
+{căm phẫn|căm thù|phẫn nộ}
+{chặn đứng|chặn lại|ngăn chặn}
+{dải ngân hà|ngoài hành tinh|ngoài trái đất|thiên hà|vũ trụ}
+{ân oán|oán|oán thù}
+{hanh|hanh hao|hanh khô|khô cứng|khô giòn|khô hanh|khô nóng}
+{âm phủ|âm ti|địa ngục}
+{niềm vui|nụ cười|thú vui}
+{chuẩn bị|sẵn sàng}
+{hiện ra|hình thành|sinh ra|xuất hiện}
+{bản|bạn dạng|phiên bản}
+{nhập cuộc|tham gia}
+{hí hửng|hoan hỉ|hoan lạc|mừng cuống|mừng húm|mừng quýnh|mừng rỡ|mừng thầm|phấn chấn}
+{phấn kích|sung sướng|vui lòng|vui mắt|vui miệng|vui mừng|vui tươi|vui vẻ}
+{điện thoại thông minh|smartphone}
+{đẳng cấp|phong cách}
+{trong sạch|trong sáng|trong trắng}
+{sai lạc|sai lầm|sai trái}
+{chính xác|đúng đắn|đúng mực}
+{con trai|đại trượng phu|đàn ông|nam nhi}
+{đàn bà|phụ nữ|thanh nữ|thiếu nữ|thiếu phụ}
+{đưa tiễn|tiễn đưa|tống biệt}
+{đón chào|đón rước|đón tiếp|nghênh tiếp}
+{đìu hiu|vắng ngắt|vắng tanh|vắng vẻ}
+{bình dân|dân dã|dân gian}
+{chung thủy|chung tình|thủy chung|tình nghĩa|trung thành}
+{bạc bẽo|bạc nghĩa|bội bạc|đen bạc|phụ bạc|tệ bạc|vô ơn}
+{bán buôn|buôn bán|mua sắm|sắm sửa}
+{e lệ|nhát gan|rụt rè}
+{bạo dạn|bạo gan|táo tợn}
+{bằng phẳng|bằng vận|cân đối|phẳng phiu}
+{gập ghềnh|gồ ghề|khấp khểnh|lồi lõm|mấp mô|nhấp nhô}
+{bắt đầu|khởi đầu|mở đầu|mở màn}
+{chấm dứt|dứt|hoàn thành|kết thúc|ngừng|xong|xong xuôi}
+{sạch|sạch sẽ|tinh khiết}
+{bẩn thỉu|dơ|dơ bẩn|dơ dáy|nhơ|nhơ bẩn}
+{bận bịu|bận rộn|mắc}
+{công bằng|công bình|vô tư}
+{gần cận|gần gũi|gần gụi|thân cận}
+{chiều chuộng|kính yêu|mến thương|mến yêu|nâng niu|thương cảm|yêu thương}
+{căm ghét|chán ghét|đáng ghét|ghét bỏ|khinh ghét|thù ghét}
+{sinh tồn|sống sót|tồn tại}
+{hợp lí|hợp pháp}
+{khoáng sản|tài nguyên}
+{online|trực tuyến}
+{cao cả|cao niên|cao quý|cao siêu|cao tay|cao thâm|cừ khôi}
+{cao dông|cao kều|cao lêu nghêu|cao ngất}
+{cao cường|cao nghều|cao nhòng|cao ráo|cao vút}
+{nói chuyện|rỉ tai|thì thầm|thủ thỉ}
+{co giãn|giãn nở|nở nang|trương nở}
+{biến đổi|chuyển đổi}
+{bất cứ|bất kỳ}
+{im lặng|im re|im thin thít|lạng lẽ|lặng ngắt|tĩnh mịch|vắng lặng|yên lặng}
+{nối liền|nối tiếp|thông liền|thông suốt|tiếp liền|tiếp nối}
+{cách biệt|cách quãng|cách trở|đứt quãng|gián đoạn|ngăn cách}
+{khỏe khoắn|khỏe mạnh|mạnh bạo|mạnh khỏe|mạnh mẽ}
+{yếu đuối|yếu ớt}
+{lãng quên|quên béng|quên khuấy|quên lãng}
+{sâu sắc|thâm thúy}
+{tin cẩn|tin cậy|tin tưởng|tin yêu}
+{nghi hoặc|nghi ngại|nghi ngờ|nghi vấn|ngờ vực}
+{còm|còm cõi|còm nhom|gầy đét|gày gò|gầy gộc|gầy yếu}
+{bã|buồn bực|buồn chán|buồn phiền}
+{tuyệt vọng|vô vọng}
+{lạc quan|sáng sủa}
+{ách thống trị|giai cấp|kẻ thống trị|thống trị}
+{bất tiện|phiền phức|phiền toái}
+{chinh phục|đoạt được}
+{khiến cho|làm cho}
+{gần giống|tương tự}
+{láng giêng|ngoại bang|ngoại quốc}
+{cố gắng|nỗ lực}
+{nhuần nhuyễn|thuần thục}
+{giận dữ|khó chịu|khó tính|tức giận}
+{đầu tiên|trước tiên}
+{đôi khi|đôi lúc|nhiều khi|nhiều lúc|thỉnh thoảng}
+{đến|tới}
+{chần chờ|chần chừ}
+{góc nhìn|tầm nhìn}
+{nhiều người biết đến|nổi tiếng}
+{lạc hậu|lỗi thời}
+{phù hợp|thích hợp}
+{hài hước|vui nhộn}
+{Bên cạnh đó|Dường như|Hình như|Ngoài ra|Trong khi}
+{vững bền|vững chắc}
+{chủ quyền|độc lập|hòa bình|tự do}
+{bại vong|diệt vong|tiêu vong}
+{tải về dế yêu|tải về di động|tải về điện thoại|tải về máy|tải về mobile}
+{đô thị|thành phố|thị trấn}
+{khán giả|người theo dõi}
+{bặt tăm|biến mất|mất tích}
+{đáp ứng|phục vụ}
+{rất hấp dẫn|rất hay|rất lôi cuốn|rất thú vị}
+{chiếm hữu|sở hữu}
+{tốc độ|vận tốc}
+{hại não|hóc búa}
+{cảm ứng|chạm màn hình}
+{âm mưu|thủ đoạn}
+{bốn|tư|tứ}
+{tỷ lệ|tỷ trọng}
+{hai|nhì|nhị}
+{chậm|chậm chạp|chậm rãi|chậm rì rì|chậm trễ|đủng đỉnh|lờ đờ|lờ lững|lừ đừ}
+{gia tăng|ngày càng tăng|tăng thêm}
+{giảm bớt|giảm sút}
+{ngay thẳng|ngay thật|thật thà}
+{dối trá|gian dối|gian sảo|gián trá}
+{bần cùng|bần hàn|nghèo đói|nghèo khó|nghèo khổ|nghèo nàn|túng bấn|túng thiếu}
+{đồng nhất|giống hệt|hệt nhau|như nhau|tương đồng}
+{đánh chiếm|lấn chiếm|xâm chiếm|xâm lăng} 
+{chỉ dẫn|hướng dẫn}
+{cấp độ|level|màn chơi}
+{làm theo|tuân theo}
+{cốt truyện|diễn biến|tình tiết}
+{giáo đồ|tín đồ}
+{ải|cửa ải|cửa quan|quan ải}
+{anh hào|anh kiệt} 
+{ăn cắp|ăn trộm|đánh cắp|móc túi|trộm cắp}
+{ăn gian|ăn lận|gian lận|gian lậu}
+{ân hận|ăn năn|hối hận}
+{ăn nhịp|nhịp nhàng}
+{ân xá|đặc xá|đại xá}
+{ẩn nấp|ẩn náu|ẩn núp}
+{bình thường|chung|phổ biến|tầm thường|thông thường}
+{dị kì|dị thường|khác lại|khác thường|kì cục}
+{long trọng|trang trọng|trọng thể}
+{bối rối|bồn chồn|hoảng loạn|hoảng sợ|hồi hộp}
+{khiếp sợ|lo âu|lo lắng|lo ngại|lo sợ|lúng túng|run sợ|sợ hãi|sốt ruột|thấp thỏm}
+{mà|nhưng|nhưng mà}
+{điềm tĩnh|tỉnh bơ}
+{bầy tớ|nô lệ|quân lính}
+{báo cáo|công bố|lên tiếng|thông báo}
+{dài lâu|lâu dài|vĩnh viễn}
+{tử chiến|tử trận|tử vong}
+{giã biệt|giã từ|tạm biệt|từ biệt|từ giã}
+{tan hoang|tan nát|tan tành|toang hoang}
+{đổ vỡ|tan vỡ|vỡ|vỡ lẽ|vỡ vạc}
+{quay quanh|xoay quanh}
+{bàn bạc|bàn luận|bàn thảo|đàm đạo|đàm luận|luận bàn|thảo luận|trao đổi}
+{báo oán|báo thù|phục thù|trả thù}
+{bất hạnh|xấu số}
+{kết duyên|kết hôn}
+{li dị|li hôn}
+{chăm bẵm|chăm nom|chăm sóc|chú tâm|để mắt}
+{cưu mang|nuôi nấng}
+{đào thải|loại bỏ|loại trừ|sa thải|thải trừ|vứt bỏ}
+{giam cầm|giam giữ|kìm hãm|nhốt}
+{bất khuất|quật cường}
+{bất ngờ|bất thần}
+{bất tỉnh|bất tỉnh nhân sự|chết giả|ngất|ngất xỉu}
+{bây chừ|bây giờ|hiện giờ|hiện nay|hiện thời}
+{bê trễ|bê trệ|trì trệ}
+{bề bộn|bộn bề|ngổn ngang}
+{bệ hạ|chúa thượng|đại vương|hoàng thượng|thánh thượng}
+{bền chí|kiên cường|kiên định|kiên trì}
+{bi kịch|thảm kịch}
+{công cụ|dụng cụ|khí cụ}
+{do thám|thám thính|trinh sát|trinh thám}
+{binh lực|quân lực}
+{bình phục|hồi phục|phục hồi}
+{bịa chuyện|bịa đặt|đơm đặt}
+{đui|đui mù|mù}
+{hèn hạ|hèn kém|hèn mạt|hèn nhát|hèn yếu}
+{địa điểm|vị trí}
+{ăn hại|bất lợi|có hại|vô ích}
+{bộ đội|lính|quân nhân}
+{bổn phận|nghĩa vụ|trách nhiệm}
+{bỗng|bỗng nhiên|chợt|đột|đột nhiên}
+{bất chợt|bỗng dưng|hốt nhiên|thốt nhiên|tự dưng}
+{bởi|bởi vì|do|vì}
+{buộc tội|cáo buộc|kết tội}
+{buồn rầu|rầu rĩ}
+{folder|thư mục}
+{bung file|giải nén}
+{cài đặt|setup|thiết đặt}
+{liên tiếp|liên tục}
+{đẩy mạnh|tăng cường|tăng mạnh|tăng nhanh}
+{quay về|trở lại}
+{bế tắc|thất vọng|thuyệt vọng}
+{chờ đợi|hy vọng|kì vọng}
+{bất hợp lí|phi lí|vô lí}
+{suy tàn|suy vi|suy vong}
+{tinh thần|ý thức}
+{danh tiếng|tăm tiếng|tên tuổi|tiếng tăm}
+{cân bằng|thăng bằng}
+{gọn gàng|gọn ghẽ|gọn nhẹ|ngắn gọn|ngăn nắp}
+{bừa bãi|cồng kềnh|lồng bồng|lồng cồng|rườm rũ}
+{biếng nhác|làm biếng|lơ là|lười biếng}
+{cần cù|cần mẫn|chăm chỉ|chịu khó|chuyên cần|siêng năng}
+{chặt chẽ|ngặt nghèo|nghiêm ngặt}
+{thiên nhiên|tự nhiên}
+{băng hà|bỏ mạng|bỏ mình|bỏ xác|chầu ông vải|chầu trời|chết giẫm|đi đời}
+{chi phí|chi tiêu|phung phí|tiêu dùng|tiêu pha|tiêu phí|tiêu xài}
+{đoàn tụ|đoàn viên|sum họp|sum vầy}
+{biệt li|chia lìa|chia phôi|li biệt|li tán}
+{binh cách|binh đao|binh lửa|đao binh|kháng chiến|loạn lạc|nội chiến}
+{câu kết|cấu kết|đoàn kết|hòa hợp|kết hợp|liên hiệp|liên kết|liên minh}
+{chính đại quang minh|chính đáng|đường đường chính chính|quang minh chính đại}
+{bà xã|cung phi|hậu phi|hiền thê|hoàng hậu|phi tần|thê thiếp|vợ}
+{khách khứa|quang khách|tân khách|thực khách}
+{con đường|đoạn đường}
+{sinh con|sinh đẻ|sinh em bé|sinh nở}
+{không thể tinh được|kinh ngạc|ngạc nhiên|quá bất ngờ}
+{có lí|hợp lý}
+{cạn kiệt|hết sạch}
+{cong queo|cong vắt|cong vút|ngoằn ngoèo|quanh co}
+{cổ đại|cổ điển|cổ kính|cổ truyền|cổ xưa}
+{bất định|biến động|cô động}
+{bất biến|bình ổn|định hình|ổn định}
+{công huân|công lao|công phu|công sức|công tích|công trạng|lao động}
+{lỗi lầm|phạm tội|tội ác|tội lỗi|tội tình|tội trạng|tội vạ}
+{cống hiến|góp sức|hiến đâng}
+{dẻo quẹo|mềm mại|mềm nhũn|nhão nhoẹt}
+{chắc nịch|cứng ngắc|cứng nhắc|cứng rắn}
+{kiếm tìm|tìm kiếm}
+{Anh chị|Anh chị em|Cả nhà|Các bạn}
+{vẹo vọ|xiêu|xiêu lòng|xiêu vẹo}
+{sinh tử|sống chết|tử sinh}
+{xôn xang|xốn xang|xôn xao}
+{miếu đường|thái miếu|tôn miếu|tông miếu}
+{y học|y khoa}
+{hấp thu|hấp thụ|kết nạp|thu nạp|thu nhận|tiếp nhận|tiếp thu|tiếp thụ}
+{gây chuyện|sinh chuyện|sinh sự}
+{công ty|doanh nghiệp|đơn vị|tổ chức}
+{gia phả|tộc phả}
+{chừng như|dường như|hình như|nghe đâu|tuồng như}
+{hình dong|hình dung|mường tưởng|mường tượng|tưởng tượng}
+{chối từ|khước từ|từ chối|từ khước}
+{chủ xướng|đề xướng|khởi xướng|thủ xướng}
+{ấm cúng|ấm êm|đầm ấm|êm ấm|yên ấm}
+{tỉnh táo|tươi tắn|tươi tỉnh}
+{bàn cãi|tranh biện|tranh cãi|tranh luận}
+{bằng lặng|bình lặng|phẳng lặng}
+{phong độ|phong thái|tư thế}
+{cảnh quan|khung cảnh|phong cảnh|quang cảnh}
+{phụng dưỡng|thờ cúng|thờ phụng|thờ tự}
+{điếu phúng|phúng điếu|phúng viếng}
+{làm đẹp|trang hoàng|trang trí}
+{dọn dẹp|quét dọn|thu dọn|thu vén}
+{chết sống|sống chết|sống mái|thư hùng|trống mái}
+{khuya sớm|sớm khuya|sớm tối|sớm trưa|tối ngày}
+{sau trước|sớm muộn|trước sau}
+{suôn sẻ|trơn|trơn tru|trơn tuột|trót lọt}
+{tai ách|tai ương}
+{giàu sang|phát đạt|Phù dung|phú vinh|quang vinh|tấn tới|vận hên|vẻ vang|vinh hiển|vinh hoa|vinh quang}
+{chia sẻ|giới thiệu|ra mắt|share|trình bày}
+{cất giữ|giữ lại|lưu giữ|lưu lại|bảo quản|gìn giữ|giữ giàng|giữ gìn}
+{giống|giống như|tương đương|tương tự|kiểu như|như là|như thể}
+{đại diện|thay mặt|tượng trưng|bảo hộ|thay thế}
+{lâu dài|mãi mãi|mãi sau|tồn tại|trường tồn|vĩnh cửu|sống thọ|trường thọ}
+{giải phóng|giải tỏa|hóa giải|giải hòa}
+{chắc chắn|chắc nịch|vững chắc|vững trãi|chắc cú|chắc rằng}
+{tài chánh|tài chính|tiền bạc|tiền của|tiền vàng|tiền giấy|tiền tài}
+{thiết bị|trang bị|vũ trang|tranh bị|vũ khí}
+{căn bản|cơ bản|chính yếu|chủ chốt|chủ công|chủ đạo|chủ quản|chủ yếu|cốt yếu}
+{chức năng|công dụng|tác dụng|tính năng}
+{bổ ích|có ích|có lợi|hữu dụng|hữu ích}
+{ngã|té|vấp ngã|bổ|bửa|xẻ}
+{binh sĩ|đấu sĩ|quân sĩ}
+{béo|bự|lớn|mập|phệ|to}
+{bấy lâu|lâu nay|xưa nay}
+{cực thịnh|phồn thịnh|thịnh trị|thịnh vượng}
+{bao la|bát ngát|mênh mông|mênh mang|rộng lớn|minh mông|mông mênh}
+{ghẻ lạnh|hờ hững|hững hờ|lãnh đạm|lạnh lùng|lạnh nhạt|thờ ơ}
+{cha|phụ thân|phụ vương|thân phụ}
+{chia thành|phân thành|tạo thành}
+{anh dũng|can đảm|can trương|gan góc|gan lì|dũng cảm|dũng mãnh|gan dạ|kiêu dũng|quả cảm}
+{giàu có|giàu sang|phong lưu|phong phú|phú quý|ấm no|no ấm|no đủ|phong túc|sung túc}
+{chân thật|chân thực|sống động}
+{quà|tiến thưởng|vàng|đá quý|kim cương|rubi}
+{chóng vánh|nhanh chóng|cuống quýt|nôn nả|nôn nóng|nóng vội|rối rít|tất tả|vội vàng|gấp rút|hối hả|lập cập|mau lẹ|nhanh lẹ|nhanh nhảu|nhanh nhẹn|vội vã}
+{khó thở|không thở được|nghẹt thở}
+{oto|siêu xe|xế hộp}
+{hiện đại|tân tiến|tiến bộ|văn minh}
+{nóng bức|nóng giãy|nóng hổi|nóng nực|nóng sốt|nực nội|oi bức|giá lạnh|lạnh buốt|lạnh giá|lạnh lẽo|lạnh mát|lạnh ngắt|lanh tanh|mát mẻ|mát rượi}
+{con người|loài người|nhân loại|quả đât|thế giới|trái đất}
+{bỏ dở|bỏ lỡ|bỏ qua}
+{dĩ nhiên|đương nhiên|tất nhiêntuy nhiên}
+{hủy hoại|phá hủy|tàn phá|tiêu diệt}
+{đóng vai|nhập vai|vào vai}
+{hấp dẫn|thú vị|lôi cuốn|thu hút}
+{bố trí|sắp xếp|sắp đặt|xếp đặt}
+{đa phần|đa số|nhiều phần|phần lớn|phần nhiều}
+{khám phá|mày mò|tìm hiểu|tò mò}
+{cách chơi|lối chơi}
+{chỉ đạo|chỉ huy|lãnh đạo}
+{bất hợp pháp|phi pháp|trái phép|phạm pháp}
+{bí mật|kín|kín đáo|kì lạ|kì quái|bí ẩn|bí hiểm|kì dị|kì khôi|kì quặc|lạ mắt|độc đáo|rất dị}
+{ai oán|ảm đạm|bi ai|bi đát|bi lụy|bi quan|bi thảm|bi thiết|bi thương|bi tráng|buồn|bi hùng}
+{bé|bé bỏng|bé nhỏ|bé xíu|nhỏ bé|nhỏ nhắn|nhỏ xíu|bé dại|nhỏ|nhỏ dại|nhỏ tuổi|gầy|ốm|tí hon}
+{cá biệt|đơn lẻ|đơn nhất|hiếm hoi|lẻ tẻ|riêng biệt|riêng lẻ|cô quạnh|độc thân|đơn chiếc|đơn côi|đơn độc|lẻ loi|trơ trọi}
+{cao sang|cự phách|đảm đang|quyền quý|sanh trọng}
+{đẩy đà|kếch xù|khổng lồ|lớn lao|lớn tưởng|mập mạp|to con|to đùng|vĩ đại|béo bệu|béo múp|béo phệ|béo phì|béo tốt|béo tròn|bụ bẫm|mập ú}
+{cây cỏ|cây cối|cây trồng|cây xanh}
+{bản chất|thực chất|bản tính}
+{thành lập|xây dựng|kiến tạo|kiến thiết|thi công|thiết kế|xây cất|xây đắp|xây dừng}
+{cung cấp|cung ứng|hỗ trợ|giúp đỡ|giúp sức|trợ giúp}
+{cực kì|vô cùng|cực kỳ}
+{xanh biếc|xanh lè|xanh rì|xanh tươi|xanh xao|tươi tốt}
+{kẻ thù|quân địch|quân thù|địch thủ|đối phương|đối thủ|kẻ địch|tình địch}
+{ân cần|đon đả|nhiệt tình|niềm nở|quan tâm|thân mật|vồ cập|thân thiện|thân thiết|thân thương|thân yêu}
+{nhân tố|yếu tố|nguyên tố}
+{cuộc chiến|trận chiến|trận đánh}
+{không xa lạ|quen thuộc|thân thuộc}
+{cống phẩm|item|sản phẩm|vật phẩm|công trình|nhà cửa|tòa tháp|tác phẩm|thành phầm|thành quả|chiến thắng|thắng lợi|thành công|thành tích|thành tựu}
+{biên tập|chỉnh sửa|thay đổi|đổi mới}
+{đem đến|đem lại|mang đến|mang lại|mang tới|đem tới|làm nên|làm ra|sản xuất|tạo nên|tạo ra|tạo thành}
+{đất nước|giang sơn|non sông|thiên hạ|đất nước|nước nhà|quốc gia|tổ quốc}
+{còn có|còn nữa|còn thêm|còn tiếp|chi tiết|xem thêm}
+{chỉ dẫn|hướng dẫn|giải đáp|gợi ý|khuyên bảo|trả lời}
+{cần đến|cần dùng|sử dụng|dùng}
+{dù rằng|mặc dầu|mặc dù}
+{khác biệt|khác lạ|lạ lùng|lạ mắt|lạ thường|quái dị|lạ đời|quái đản|quái dị|quái gở|quái lạ}
+{đàng hoàng|khoan thai|thong dong|ung dung|lỏng lẻo|thong thả|thủng thẳng|từ từ|nhàn|nhàn hạ|nhàn nhã|nhàn rỗi|rảnh|rảnh rỗi|thanh nhàn|thảnh thơi|thư thả|từ tốn}
+{triển lẵm|trưng bày|bày bán|phân phối|rao bán|cung cấp}
+{ban đầu|ban sơ|khởi đầu|lúc đầu|lúc đầu|thuở đầu}
+{ân nghĩa|ân tình|ơn nghĩa|ân đức|ân huệ|đậc ân|ơn huệ|ơn tình}
+{bằng lòng|chấp nhận|chấp thuận|hài lòng|ưng ý|đồng tình|đống ý|tán thành}
+{bảo bối|bảo vật|báu vật}
+{khái quát|nói chung|tổng thể|cục bộ|toàn bộ|toàn cục|toàn thể|hầu hết|hầu như|nhiều loại|tất cả|tổng hợp|hoàn toàn|toàn bộ|toàn thể|toàn bộ|tổng cộng|tổng số}
+{chung cục|chung cuộc|cuối cùng|rốt cục|rốt cuộc|rút cục|rút cuộc|sau cùng|sau cuối}
+{đối chiếu|phân tích|so sánh|so với}
+{không mất phí|không mất tiền|miễn phí|free|khuyến mãi|tặng|ưu đãi|không lấy phí|không tính phí|không tính tiền}
+{quan trọng|rất cần thiết|trọng yếu|cần thiết}
+{cửa hàng|khu chợ|siêu thị|shop}
+{hoàn hảo|tuyệt vời|ấn tượng|tuyệt hảo}
+{đặc biệt|khác biệt|khác lạ|khác nhau|không giống nhau}
+{dựa vào|phụ thuộc|dựa dẫm|lệ thuộc|nương tựa}
+{khôi lỏi|khôn khéo|láu lỉnh|ranh mãnh|tinh khôn|tinh ranh|khéo léo}
+{đẹp đẽ|đẹp tươi|xinh tươi|xinh xắn|cute|đáng yêu|dễ thương|xinh đẹp}
+{đòi hỏi|yên cầu|yêu cầu|hưởng thụ|thưởng thức|trải nghiệm}
+{đen đủi|đen thui|xui xẻo|rủi|rủi ro|không may}
+{tấn công|tiến công|đánh}
+{gian nguy|nguy hại|nguy hiểm|nguy khốn|nguy nan|ác hại|tai hại}
+{tinh vi|tinh xảo|cầu kỳ|khó hiểu|phức tạp|phức hợp}
+{gian khổ|gian nan|gian truân|khó khăn|âu sầu|buồn bã|cực khổ|đau buồn|đau đớn|đau khổ|khổ cực|khổ sở}
+{bề ngoài|hiệ tượng|hình thức|vẻ ngoài|cách thức|lý lẽ|nguyên lý|nguyên tắc|phép tắc|phương pháp|qui định|chế độ|cơ chế|chính sách}
+{cộng đồng|đồng đội|số đông|tập thể|anh em|bạn bè|bằng hữu|bầy|bầy đàn|bè bạn|bè cánh|bè đảng|bè lũ|bè phái|bọn|đàn|lũ|bạn hữu|đồng chí|đồng minh}
+{chú ý|để mắt tới|cẩn thận|chu đáo|để ý|lưu ý|xem xét|chăm chú}
+{tiện dung|tiện lợi|thuận lợi|thuận tiện|tiện nghi|dễ dãi|dễ dàng|dễ ợt|dễ chơi|đơn giản}
+{bản lĩnh|khả năng|kĩ năng|kỹ năng|tài năng|anh tài|hào kiệt|nhân kiệt|nhân tài|thiên tài|tuấn kiệt}
+{dế yêu|di động|điện thoại|thiết bị cầm tay|laptop|máy tính bảng}
+{lanh lợi|mưu trí|thông minh|sáng dạ|sáng ý|cao cấp|đắt tiền|sang trọng}
+{ái mộ|hâm mộ|mến mộ|ngưỡng mộ|hâm mộ|mếm mộ|ưa chuộng|ưa thích|yêu mếm|yêu thích|thích thú|yêu mến|mếm mộ|thương mến|thương yêu|yêu dấu|yêu quý}
+{điển hình|nổi bật|nổi trội|tiêu biểu|đặc biệt|đặc sắc|tuyệt đỉnh|tuyệt vời|lừng danh|nổi tiếng}
+{đánh giá|giới thiệu|giới thiệu thông tin|mô tả|mô tả thông tin|bình chọn|diễn giả|thuyết trình|trình bày|trình diễn|biểu hiện|biểu lộ|biểu thị|bộc lộ|thể hiện|biểu đạt|diễn đạt|diễn tả|miêu tả}
+{hung ác|hung tàn|man rợ|tàn ác|tàn bạo|tàn khốc|tàn nhẫn|tàn tệ|độc ác|gian ác|bất nhẫn|bất lương|vô lương|bất chính|gian tà|mờ ám|phi chính nghĩa|phi nghĩa|ác nghiệt|hiểm độc|ác|ác độc|ác hiểm|cường bạo}

@@ -1,0 +1,18 @@
+{
+  "name": "api-wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jssoup": "0.0.12",
+    "lodash": "^4.17.20",
+    "superagent": "^6.1.0",
+    "underscore": "^1.11.0",
+    "wpapi": "^2.0.0-alpha.1"
+  }
+}

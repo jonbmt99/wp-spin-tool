@@ -1,0 +1,87 @@
+﻿{laptop|máy tính|máy tính xách tay}
+{hồi tháng|trong tháng|trong thời điểm tháng|vào tháng|vào thời điểm tháng}
+{bán cho|bán ra cho|xuất bán cho}
+{inc|inh|inch}
+{hướng tới|hướng đến|nhắm tới|nhắm đến}
+{macbook|laptop macbook|apple Macbook|laptop Apple Macbook}
+{apple|hãng apple|táo|táo Apple|táo khuyết|táo bị cắn|táo bị cắn dở}
+{sau khi|sau thời điểm|sau khoản thời gian}
+{rẻ hơn|giá rẻ hơn|giá thấp hơn|chi phí thấp hơn|chi phí rẻ hơn|giá tốt hơn|giá giảm hơn}
+{Core|Chip Core|Vi xử lý Core|bộ vi xử lý Core}
+{Intel|Hãng Intel|Hãng sản xuất Intel}
+{$|USD}
+{bán đắt hơn|bán giá bán đắt hơn|bán với giá cao hơn|bán với giá thành cao hơn}
+{đắt hơn|giá bán đắt hơn|giá cao hơn|giá thành cao hơn}
+{nhẹ hơn|nhẹ nhàng hơn|khối lượng nhẹ hơn}
+{một nửa|1/2|50%}
+{của máy|của sản phẩm|của dòng sản phẩm}
+{Hãng LG|LG}
+{Hãng Sony|Sony}
+{Hãng Samsung|Samsung}
+{Nokia|Hãng Nokia}
+{Hãng Oppo|OPPO}
+{Hãng Xiaomi|Xiaomi}
+{giữ nguyên|không thay đổi}
+{cổng USB|cổng tiếp nối USB|Output USB|USB}
+{bỏ ra thêm|chi thêm|tiêu tốn thêm}
+{để có|để sở hữu}
+{bộ nhớ|bộ nhớ lưu trữ|bộ lưu trữ}
+{cao gấp đôi|mạnh gấp đôi|cao gấp 2 lần|mạnh gấp 2 lần}
+{giá bán|giá thành|giá cả}
+{bán với|xuất kho với|bán đi với|bán ra với}
+{pixel|px}
+{card đồ họa|VGA|card VGA|đồ họa}
+{khe cắm|Zắc cắm|Dắt cắm|dắc cắm}
+{nói rằng|bảo rằng}
+{vẫn thua|vẫn không thể thắng|vẫn còn thua kém|vẫn kém thua}
+{thời lượng pin|thời lượng sử dụng pin|thời gian sử dụng pin|thời gian PIN}
+{LG Gram|Laptop LG Gram|Máy tính LG Gram|Laptop xách tay LG Gram|máy tính xách tay LG Gram}
+{cấu hình cao|cấu hình vượt trội|cấu hình mạnh mẽ}
+{MacBook Pro|Apple MacBook Pro|Táo MacBook Pro|MacBook phiên bản Pro|Apple MacBook phiên bản Pro}
+{cạnh tranh|đối đầu|đối đầu và cạnh tranh|tuyên chiến đối đầu|tuyên chiến và cạnh tranh|tuyên chiến đối đầu và cạnh tranh}
+{Asus|Hãng Asus}
+{Asus ROG G752|Laptop Asus ROG G752|Laptop ROG G752|Laptop Aus G752|Máy tính xách tay ROG G752|Máy tính xách tay Asus ROG G752}
+{Laptop G751|G751|Laptop Asus G751|Máy tính xách tay Asus G751}
+{từng gây|từng tạo ra|từng khiến cho|đã từng gây nên|đã từng tạo ra|đã từng khiến cho}
+{ít nhiều|không ít|rất nhiều}
+{tiền nhiệm|nhiệm kỳ trước đó|nhiệm kỳ trước}
+{vẫn chính là|vẫn là}
+{tản nhiệt|giảm nhiệt|khuếch tán nhiệt lượng}
+{làm mát|làm giảm nhiệt độ}
+{truyền thống|cổ điển|cổ xưa}
+{giao lưu|chia sẻ|gặp mặt}
+{nhận thấy|nhận biết|nhận ra}
+{cỗ máy|bộ máy|máy bộ}
+{chiến Game|đấu game|game đấu}
+{nặng ký|vượt trội hoàn toàn}
+{dẫu thế|mặc dù vậy|mặc dù thế|tuy nhiên}
+{phay xước|vết phay|đường chỉ phay xước}
+{cánh gió|cánh quạt|cánh quạt gió}
+{hầm hố|hùng hổ|hoành tráng}
+{hệt như|y như|y hệt như|giống như|giống hệt như}
+{hệ thống|khối hệ thống}
+{ẩn sau|khuất sau|ẩn phía sau|khuất phía sau|ẩn khuất phía sau}
+{phần cứng|Hartware}
+{đạt mức|đạt tới|đạt tới mức}
+{tăng tốc|tăng cường|bức tốc}
+{tối đa|cao nhất}
+{kết nối|connect}
+{Bluetooth|Công nghệ Bluetooth|Bluetooth không dây|công nghệ Bluetooth không dây}
+{giao tiếp|tiếp xúc}
+{đầu đọc thẻ|đầu đọc thẻ nhớ}
+{bằng sáng chế|văn bằng bản quyền trí tuệ|bằng bản quyền sáng chế|bằng bản quyền sáng tạo}
+{sáng chế|sáng tạo|trí tuệ sáng tạo}
+{bàn phím|keyboard}
+{vật lý|vật lý cơ|cơ vật lý}
+{cơ cấu|cấu tạo}
+{cảm nhận|cảm biến}
+{nhập dữ liệu|nhập Data|import dữ liệu|import data}
+{dữ liệu|data}
+{cơ sở dữ liệu|CSDL|DataBase}
+{ép xuống|đè xuống}
+{như đang|giống như là đang|giống như đang}
+{Touch|cảm ứng|cảm biến}
+{3D Touch|Touch 3D|Cảm biến 3 chiều|cảm ứng 3 chiều}
+{không giúp|không hỗ trợ}
+{chính là|đó là}
+{cảm nhận|cảm biến}
