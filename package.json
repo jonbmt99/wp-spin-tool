@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
+    "cron": "^1.8.2",
     "jssoup": "0.0.12",
     "lodash": "^4.17.20",
+    "node-telegram-bot-api": "^0.50.0",
     "superagent": "^6.1.0",
     "underscore": "^1.11.0",
     "wpapi": "^2.0.0-alpha.1"

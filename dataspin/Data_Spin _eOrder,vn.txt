@@ -1,0 +1,66 @@
+{mua hàng|nhập hàng|đặt hàng|order hàng|mua hộ hàng}
+{đơn giản|dễ hiểu}
+{lo lắng|lo ngại|quan ngại|bân khuân}
+{uy tín|chất lượng|đảm bảo}
+{bí kíp|chỉ dẫn|chia sẻ|hướng dẫn|kinh nghiệm}
+{bước|thao tác}
+{cách|phương pháp|thao tác}
+{đánh hàng|đặt hàng|mua hàng|nhập hàng|order hàng}
+{đại lý|đầu mối|nhà bán|nhà bán buôn|nhà cung cấp|NCC}
+{sàn thương mại điện tử|TMĐT|trang web}
+{bên thứ 3|trung gian}
+{nhà phân phối độc quyền|nhà sản xuất|xưởng buôn|xưởng sản xuất}
+{chứng từ|giấy tờ|hóa đơn|thủ tục}
+{nhập khẩu|qua cửa hải quan|thông quan}
+{hóa đơn thuế|thuế|VAT}
+{Quảng Châu|Trung Quốc}
+{đóng biên|kẹt biên|tắt biên}
+{dịch vụ chăm sóc khách hàng|đội ngũ chăm sóc|nhân viên hỗ trợ|CSKH}
+{biên giới|cửa khẩu|hải quan}
+{kim ngạch xuất khẩu|kim ngạch xuất nhập khẩu}
+{chi phí|cước|cước phí|giá thành}
+{kho bãi|kho chứa|kho hàng|kho vận tải|nhà kho}
+{gom hàng|mua hộ|nhận order|gom order}
+{lệnh giao hàng|yêu cầu giao hàng|yêu cầu gửi hàng}
+{phí thu thêm|phụ phí}
+{giao hàng|gửi hàng|vận chuyển|vận tải|ship hàng|chuyển hàng}
+{đường biển|đường sông|đường thủy}
+{cục hàng|gói hàng|kiện hàng|lô hàng|đơn hàng}
+{lẹ|mau|nhanh chóng|nhanh}
+{đóng gỗ|đóng thùng gỗ}
+{sỉ|số lượng lớn|số lượng nhiều}
+{lẻ|số lượng ít|số lượng nhỏ}
+{chi phí cao|chi phí lớn|mắc}
+{chi phí nhỏ|chi phí thấp|rẻ}
+{đa dạng|phong phú}
+{nội địa|trong nước}
+{dễ dàng|đơn giản}
+{chuyển phát nhanh|CPN}
+{khối lượng|kích thướt|trọng lượng}
+{phiếu giao hàng|phiếu gửi hàng|phiếu vận đơn}
+{chú ý|lưu ý}
+{đếm hàng|kiểm hàng}
+{khó khăn|nguy hiểm|rủi ro}
+{giảm tải|giảm thiểu|hạn chế}
+{kháng nghị|khiếu nại}
+{điều chỉnh|sửa đổi|thay đổi}
+{cập nhật trạng thái|kiểm tra|theo dõi}
+{chất lượng cao|uy tín}
+{ngoại tệ|tỷ giá}
+{chuyển tiền|gửi tiền}
+{từ khóa|từ ngữ}
+{phổ biến|phổ biến rộng rãi|sử dụng rộng rãi|thông dụng}
+{đàm phán|deal|thỏa thuận|thương lượng}
+{chính sách|điều khoản}
+{giá gốc|giá vốn}
+{NDT|nhân dân tệ|tệ|tiền TQ}
+{kiểm tra|rà soát}
+{hàng bị hư hỏng|hàng lỗi|mất hàng|thiếu hàng}
+{bồi hoàn|bồi thường|đền bù}
+{lợi ích|quyền lợi}
+{kinh doanh|buôn bán}
+{chính sách|điều khoản|quy định|quy tắc}
+{Hiện nay|Hiện tại|Ngày nay}
+
+
+
